@@ -1,4 +1,4 @@
-### Creating Small Tests
+## Creating Small Tests
 
 When opening up issues focused on quality or security best practices (for example doing a security assessment or code review), it's better to keep them as small as possible. Ideally these issues are placed on a separate bug tracking project (like the Security RISK one), since they can be quite problematic with project managers which like to keep their bug count small.
 
