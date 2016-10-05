@@ -1,4 +1,4 @@
-## Creating-a-Jira-project
+### Creating-a-Jira-project
 
 For these examples we will use the version hosted JIRA cloud called (in Oct 2016) JIRA Software.
 

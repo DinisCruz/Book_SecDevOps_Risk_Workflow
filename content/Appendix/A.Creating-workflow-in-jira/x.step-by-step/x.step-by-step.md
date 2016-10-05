@@ -1,4 +1,4 @@
-## Step-by-step instructions
+### Step-by-step instructions
 
 
 **Creating RISK workflow**

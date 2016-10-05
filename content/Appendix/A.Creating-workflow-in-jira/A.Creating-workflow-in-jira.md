@@ -1,4 +1,4 @@
-# Appendix A: Creating Workflow in JIRA
+## Appendix A: Creating Workflow in JIRA
 
 This section shows how to create the JIRA workflows without using any JIRA plugins
 
