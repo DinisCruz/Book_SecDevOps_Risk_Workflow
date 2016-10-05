@@ -1,6 +1,6 @@
-### Who is actually making decisions
+## Who is actually making decisions
 
-One of the interesting situations that occurs when we play the risk acceptance game, is to actually find out for real who in the organization is actually making the decisions.
+One of the interesting situations that occurs when we play the risk acceptance game, is to actually find out for real who in the organisation is actually making the decisions.
 
 Because originally, what has to happen is the risk test be pushed up, so each person pushed their boss to accept risk. But usually there is a moment where basically what the boss does or aware of the management actually thus he pushes it down. So, you figure out well that isn't my decision, I expect that decision to be made by for example that person.
 
