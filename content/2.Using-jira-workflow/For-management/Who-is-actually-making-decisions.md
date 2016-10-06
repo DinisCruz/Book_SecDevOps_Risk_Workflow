@@ -1,4 +1,5 @@
 ## Who is actually making decisions
+_(from audio, needs editing)_
 
 One of the interesting situations that occurs when we play the risk acceptance game, is to actually find out for real who in the organisation is actually making the decisions.
 
