@@ -1,4 +1,4 @@
-## GitHub book workflow
+## Appendix B: GitHub book workflow
 
 - explain the workflow used to create this book
   - audio transcripts and copy editing (and upwork)
