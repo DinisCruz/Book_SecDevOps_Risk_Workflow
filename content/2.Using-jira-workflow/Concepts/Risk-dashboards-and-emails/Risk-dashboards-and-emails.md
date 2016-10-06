@@ -1,6 +1,10 @@
 ### Risk Dashboards and emails
 
+{width=50%, float=right}
+![Jira Dashboard](images/jira-dashboard-1.png)
+
 It is critical that you create a suite of management dashboards that map the existing security metrics and the status of RISK tickets:
+
   * _Open, In Progress_
   * _Awaiting Risk Acceptance, Risk Accepted_
   * _Risk Approved, Risk not Approved, Risk Expired_
@@ -9,8 +13,6 @@ It is critical that you create a suite of management dashboards that map the exi
 
 Visualising this data makes it real and creates  powerful dashboards. These need to be provided to all players in the software development lifecycle.
 
-{width=50%, float=right}
-![Jira Dashboard](images/jira-dashboard-1.png)
 
 You should create a sequence of dashboards that starts with the developer (mapping the issues that he is responsible for), then his technical architect, then the business owner, the product owner ... all the way to the CTO and CISO.
 

@@ -1,4 +1,4 @@
-## Graduates to manage JIRA
+### Graduates to manage JIRA
 
 One of the challenges of the JIRA RISK workflow is managing and maintaining the opened issues. This can be a considerable amount of work, especially when there are 200 or more issues.
 
