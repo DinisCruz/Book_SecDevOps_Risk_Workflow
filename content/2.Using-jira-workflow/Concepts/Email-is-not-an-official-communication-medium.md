@@ -9,7 +9,7 @@ Emails are conversations, they are not official communication mediums. In compan
 
 This knowledge tends to only exist on an email thread or in a middle of document. That is not good enough. Email is mostly noise, and once something goes into an email, it is often very difficult to find it again.
 
-If information is not on a wiki page, bug tracking system or source control solution like git, it basically doesn't exist.
+If information is not at the end of a link, like on a wiki page, bug tracking system or source control solution like git, it basically doesn't exist.
 
 It is especially important not to communicate security risks or quality issues in email, where it is not good enough to say to a manager, _"... by the way, here is something I am worried about..."_.
 
