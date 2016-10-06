@@ -21,7 +21,7 @@ Each dashboard makes it clear which risks they are responsible for, and the curr
 To reenforce ownership and make sure the issues/risks don't 'disappear', the solution is to use either the full dashboard, or specific tables/graphs, to create emails that are sent regularly to their respective owner.
 
 {width=50%, float=right}
-![Jira Dashboard](images/jira-dashboard-email-1.png)
+![Emails to management](images/jira-dashboard-email-1.png)
 
 
 The power of risk acceptance is that each layer is accepting risk on behalf of the layer above. Which means that the higher one is the company structure, the more risks are allocated and accepted (all the way to the CISO and CTO).
