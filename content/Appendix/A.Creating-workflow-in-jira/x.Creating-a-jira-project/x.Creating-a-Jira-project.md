@@ -16,7 +16,7 @@ If you don't have an account you will need to create one.
 
 After clicking on _Start now_ your cloud instance of JIRA will be created (my bet is that this is a docker container with a dedicated data store for each customer/trial)
 
-{width=25%}
+{width=50%}
 ![](images/5e38eff8-3dc9-11e6-9220-3939d86c936c.png)
 
 3) login
@@ -32,7 +32,7 @@ After clicking on _Start now_ your cloud instance of JIRA will be created (my be
 
 5) choose Kanban Software Development
 
-{width=25%}
+{width=50%}
 ![](images/a6ba4366-3dca-11e6-814f-7f1d189701fa.png)
 
 {width=50%}
@@ -45,5 +45,5 @@ After clicking on _Start now_ your cloud instance of JIRA will be created (my be
 
 7) Your new JIRA Project dashboard should open and look something like this
 
-{width=50%}
+{width=100%}
 ![](images/5e6864ac-3dcb-11e6-9f6d-c9dbb19295ee.png)
