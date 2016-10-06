@@ -30,6 +30,7 @@ After clicking on _Start now_ your cloud instance of JIRA will be created (my be
 {width=50%}
 ![](images/91abc63e-3dca-11e6-822e-6781143f7c51.png)
 
+{float=left}
 5) choose Kanban Software Development
 
 {width=50%}
