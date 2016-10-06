@@ -7,7 +7,7 @@ Note that the same workflow can be created on the on-premise versions of JIRA (i
 
 First step is to go to https://www.atlassian.com/software/jira/try  and chose the _JIRA Software_. I would also add in the _Documentation_ (aka Confluence) module since it is a very powerfull wiki (which is  called _Confluence_)
 
-{width=50%, float=left}
+{width=50%, float=right}
 ![](images/3f66f00c-3dc9-11e6-8020-adc9d1ff0dba.png)
 
 If you don't have an account you will need to create one.
@@ -17,7 +17,7 @@ If you don't have an account you will need to create one.
 
 After clicking on _Start now_ your cloud instance of JIRA will be created (my bet is that this is a docker container with a dedicated data store for each customer/trial)
 
-{width=50%, float=left}
+{width=50%}
 ![](images/5e38eff8-3dc9-11e6-9220-3939d86c936c.png)
 
 3) login
