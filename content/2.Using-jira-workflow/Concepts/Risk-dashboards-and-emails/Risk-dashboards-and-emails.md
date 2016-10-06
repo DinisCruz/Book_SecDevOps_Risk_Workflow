@@ -1,9 +1,9 @@
 ### Risk Dashboards and emails
 
+It is critical that you create a suite of management dashboards that map the existing security metrics and the status of RISK tickets:
+
 {width=50%, float=right}
 ![Jira Dashboard](images/jira-dashboard-1.png)
-
-It is critical that you create a suite of management dashboards that map the existing security metrics and the status of RISK tickets:
 
   * _Open, In Progress_
   * _Awaiting Risk Acceptance, Risk Accepted_
@@ -13,16 +13,14 @@ It is critical that you create a suite of management dashboards that map the exi
 
 Visualising this data makes it real and creates  powerful dashboards. These need to be provided to all players in the software development lifecycle.
 
-
 You should create a sequence of dashboards that starts with the developer (mapping the issues that he is responsible for), then his technical architect, then the business owner, the product owner ... all the way to the CTO and CISO.
 
 Each dashboard makes it clear which risks they are responsible for, and the current status of application security for those particular applications/projects.
 
-To reenforce ownership and make sure the issues/risks don't 'disappear', the solution is to use either the full dashboard, or specific tables/graphs, to create emails that are sent regularly to their respective owner.
-
 {width=50%, float=right}
 ![Emails to management](images/jira-dashboard-email-1.png)
 
+To reenforce ownership and make sure the issues/risks don't 'disappear', the solution is to use either the full dashboard, or specific tables/graphs, to create emails that are sent regularly to their respective owner.
 
 The power of risk acceptance is that each layer is accepting risk on behalf of the layer above. Which means that the higher one is the company structure, the more risks are allocated and accepted (all the way to the CISO and CTO).
 
