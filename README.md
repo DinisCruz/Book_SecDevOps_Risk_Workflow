@@ -1,5 +1,20 @@
-# Book_Jira_Risk_Project
-Content for 'JIRA Risk Project' book published at LeanPub
+# Book Jira Risk Workflow
+Content for 'JIRA Risk Project' book published at https://leanpub.com/jira-risk-workflow
+
+The book is still under development, so if you spot any issues or have recommendations please fork this repository and submit a [Pull Request](https://github.com/DinisCruz/Book_Jira_Risk_Workflow/pulls) :)
+
+## Issues and Discussion group
+
+If you have questions please create a new [Issue](https://github.com/DinisCruz/Book_Jira_Risk_Workflow/issues) here at gitHub.
+
+##Buy eBook##
+
+If you can, please buy the book since it will help with production, design, editing and layout costs.
+
+Leanpub provide a nice shooping card solution which allows you to chose which price to pay: [Buy Jira Risk Workflow](https://leanpub.com/jira-risk-workflow/overview)
+
+![image](https://cloud.githubusercontent.com/assets/656739/19205893/0656dc10-8cdd-11e6-9033-72b1138a6801.png)
+
 
 
 **Setup**
