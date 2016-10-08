@@ -1,6 +1,12 @@
 ### Becoming A Security Champion
 
-To become a security champion, the most important property is that you want to be one. You need a mandate from the business that will give you at least half a day, if not one a full day. You basically need to be a programmer and understand code, because your job is to actually start looking at your application and understand the security properties of it. So you need to start looking at the application from the point of view of an attacker, because in the beginning that’s the best way to get your head around it. You need to start thinking about data inputs, everything that goes into the database, into the application, all the entry points of the application, everything that the attacker could control, and that could be anything from headers to cookies to sockets to anything that actually enters the application. And then authorization is also a great way to take a look. So just looking at how you handle data and how you authorize things is a great way to understand how the application works and it's also a great way to do things like threat modeling. In terms of books, some of the cool books out there, things like Hacking Exposed, both the normal version and the Hacking Exposed: Web Applications, are great books. The Shellcoder’s Handbook is also a great book from an application security point of view, and they will basically walk you through the vulnerabilities. Another great resource is the OWASP WebGoat Project which actually just released a new version, and it has a whole bunch of exercises in vulnerabilities so that you can learn how they work and they give you clues for if you get stuck. The first thing is to actually do those exercises and essentially hack into your own applications, or in fact, you can hack anything that moves in your company, because you have a mandate to protect your own company. So in terms of targets, you can go for your own company, go for your own application, or go for your colleague’s application. Sometimes that’s a bit easier to digest. Also go for things like bug bounties, which are basically companies that give you permission to hack them and find security issues.
+To become a security champion, the most important property is that you want to be one.
+
+You need a mandate from the business that will give you at least half a day, if not one a full day.
+
+You basically need to be a programmer and understand code, because your job is to actually start looking at your application and understand the security properties of it. So you need to start looking at the application from the point of view of an attacker, because in the beginning that’s the best way to get your head around it. You need to start thinking about data inputs, everything that goes into the database, into the application, all the entry points of the application, everything that the attacker could control, and that could be anything from headers to cookies to sockets to anything that actually enters the application. And then authorization is also a great way to take a look. So just looking at how you handle data and how you authorise things is a great way to understand how the application works and it's also a great way to do things like threat modeling.
+
+In terms of books, some of the cool books out there, things like Hacking Exposed, both the normal version and the Hacking Exposed: Web Applications, are great books. The Shellcoder’s Handbook is also a great book from an application security point of view, and they will basically walk you through the vulnerabilities. Another great resource is the OWASP WebGoat Project which actually just released a new version, and it has a whole bunch of exercises in vulnerabilities so that you can learn how they work and they give you clues for if you get stuck. The first thing is to actually do those exercises and essentially hack into your own applications, or in fact, you can hack anything that moves in your company, because you have a mandate to protect your own company. So in terms of targets, you can go for your own company, go for your own application, or go for your colleague’s application. Sometimes that’s a bit easier to digest. Also go for things like bug bounties, which are basically companies that give you permission to hack them and find security issues.
 
 ### Security Champions
 
@@ -12,7 +18,7 @@ To become a security champion, the most important property is that you want to b
 
   - [What are Security Champions and what do they do?](http://blog.diniscruz.com/2015/10/what-are-security-champions-and-what-do.html)
   - [Does your team has a Security Champion? If not, get this Mug and Library](blog.diniscruz.com/2015/01/does-your-team-has-security-champion-if.html)
-  
+
 
 ### Becoming a Security Champion
 
@@ -61,7 +67,7 @@ Also go for bug bounties, which is basically a nice list of interface of compani
 ### Developers we need YOU in AppSec
 
  - big oportunity for existing developers to move into appsec
- 
+
 ### Big market demand for AppSec Professionals
 
 At the moment there is a massive demand for AppSec devs. Historically the path info InfoSec via Network Security, which means that the majority of InfoSec professionals cannot move to AppSec, because they can't code professionally (i.e. no real knowledge on how to build, test and ship software/apps)
@@ -71,4 +77,3 @@ It is also possible to learn on the job since there is such a shortage, which ma
 - add stats on salaries for: AppSec and projects that mention OWASP
   - http://blog.diniscruz.com/2009/09/owasp-driven-jobs.html
   - http://www.indeed.com/salary?q1=appsec&l1=
-
