@@ -40,9 +40,6 @@ Unfortunately this program has ended in 2012 following an [internal reorganisati
 From [Secure_SDLC_Cheat_Sheet](https://www.owasp.org/index.php/Secure_SDLC_Cheat_Sheet)
 
 ![](images/owaspSAMM-team-champions.png)
-| Step  | Purpose | Activities| Resources | Best Practices|
-|-------|---------|-----------|-----------|---------------|
-| Step 6 - Roll out	| Ensure that improvements are available and effectively used within the organisation	| **Evangelise Improvements** Make the steps and improvements visible for everyone involved by organising training and communicating. **Measure effectiveness**  Measure the adoption and effectiveness of implemented improvements by analysing usage and impact.| |Categorise applications according to their impact on the organisation. Focus on high-impact applications. Use team champions to spread new activities throughout the organisation
 
 
 **BSIMM**
