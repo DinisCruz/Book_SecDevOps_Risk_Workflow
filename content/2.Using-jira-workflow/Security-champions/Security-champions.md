@@ -9,4 +9,4 @@
 * [Involvement in senior technical discussions](Involvement-in-senior-technical-discussions.md)
 * [Security Champions Don't Take it Personally](Security-champions-dont-take-it-personally.md)
 * [Supported by central AppSec](Security-champions.md)
-* [Public references to Security Champions teams](Public-references-to-Security-Champions-teams.md)
+* [Public references to Security Champions teams](Public-references-to-Security-Champions-teams/Public-references-to-Security-Champions-teams.md)
