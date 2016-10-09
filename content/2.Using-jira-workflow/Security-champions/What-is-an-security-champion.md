@@ -4,11 +4,12 @@ Security Champions are a key element of an AppSec team, since they create an cro
 
 **What is an Security Champion?**
 
-*  Security Champions are active members of a team that may help to make decisions about when to engage the Security Team
-*  Act as the "voice" of security for the given product or team
-*  Assist in the triage of security bugs for their team or area
+  *  Security Champions are active members of a team that may help to make decisions about when to engage the Security Team
+  *  Act as the "voice" of security for the given product or team
+  *  Assist in the triage of security bugs for their team or area
 
 **What do they do?**
+
   *  Actively participate in the AppSec JIRA and WIKI
   *  Collaborate with other security champions
      *  Review impact of 'breaking changes' made in other projects

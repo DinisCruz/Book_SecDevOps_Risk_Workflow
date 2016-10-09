@@ -1,6 +1,6 @@
 ### The Security Champions Concept
 
-> _"If everyone is responsible for security, then nobody is"_ [Patrick-Lencioni^]
+> _"If everyone is responsible for security, then nobody is"_ [^Patrick_Lencioni]
 
 * What are Security Champions?
 * Why Security Champions
@@ -14,5 +14,5 @@
 * explain how JIRA Risk Workflow is connected to the Security champions
 
 
-[Patrick-Lencioni^]: a variation of the quote:
+[^Patrick_Lencioni]: a variation of the quote:
 “If everything is important, then nothing is.” from  Patrick Lencioni
