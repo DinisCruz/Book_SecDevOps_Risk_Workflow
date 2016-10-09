@@ -1,5 +1,6 @@
 ## Security Champions
 
+* [The Security Champions concept](The-security-champions-concept.md)
 * [What is an Security Champion and what do they do?](What-is-an-security-champion.md)
 * [Becoming A Security Champion](Becoming-a-security-champion.md)
 * [Do you have an heartbeat, you qualify!](Do-you-have-an-heartbeat-you-qualify.md)

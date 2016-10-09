@@ -21,9 +21,10 @@ and
 
 **Mozilla**
 
-Mozilla has a good pages at https://wiki.mozilla.org/Security and  https://wiki.mozilla.org/Security/Champions.
+Mozilla has a good pages at [Security](https://wiki.mozilla.org/Security) and  [Security/Champions](https://wiki.mozilla.org/Security/Champions).
 
 ![](images/mozilla-security-champions-page.png)
+
 In the SC page they mention other types of Security Contributors:
 
 * Contributor

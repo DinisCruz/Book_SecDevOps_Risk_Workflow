@@ -10,7 +10,7 @@ I also like that it re-enforces the idea, that for most developer teams, **just 
 
 Basically we have such a skill shortage in our industry for application security developers that **'if you have a heart-beat you qualify'**
 
-**How to create the SC Mug**
+#### How to create the SC Mug
 
   * Get a mug with lots of white space in the front and back
   * write **_Security Champion_** at the front in large letters (but not so big that the text can't be read from a distance)
@@ -19,4 +19,4 @@ Basically we have such a skill shortage in our industry for application security
 
 Put the mug in the central and visible place of the team. It is important that the Mug is an isolated place and not really 'assigned' to anybody.
 
-In some teams I've seen the ritual that when a Security Champion is appointed, he/she gets the Mug to put on his desk. 
+In some teams I've seen the ritual that when a Security Champion is appointed, he/she gets the Mug to put on his desk.
