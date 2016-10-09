@@ -6,9 +6,9 @@ The Microsoft Agile SDL describes them as Team Champions
 
 In [Simplified Implementation of the Microsoft SDL](https://www.microsoft.com/en-us/download/details.aspx?id=12379)
 
-> **Team Champions.** The team champion roles should be filled by SMEs from the project team. These roles are responsible for the negotiation, acceptance, and tracking of minimum security and privacy requirements and maintaining clear lines of communication with advisors and decision makers during a software development project.
-> * _Security Champion/Privacy Champion._ This individual (or group of individuals) does not have sole responsibility for ensuring that a software release has addressed all security issues, but is responsible for coordinating and tracking security issues for the project. This role also is responsible for reporting status to the security advisor and to other relevant parties (for example, development and test leads) on the project team.
->  * _Combination of Roles._ As with the security and privacy advisor role, the responsibilities vested in the champion role may be combined if an individual with the appropriate skills and experience can be identified.
+> _**Team Champions.** The team champion roles should be filled by SMEs from the project team. These roles are responsible for the negotiation, acceptance, and tracking of minimum security and privacy requirements and maintaining clear lines of communication with advisors and decision makers during a software development project._
+>  * _**Security Champion/Privacy Champion.** This individual (or group of individuals) does not have sole responsibility for ensuring that a software release has addressed all security issues, but is responsible for coordinating and tracking security issues for the project. This role also is responsible for reporting status to the security advisor and to other relevant parties (for example, development and test leads) on the project team._
+>  * _**Combination of Roles.** As with the security and privacy advisor role, the responsibilities vested in the champion role may be combined if an individual with the appropriate skills and experience can be identified._
 
 In ["The Microsoft SDL Process Template – Making Secure Code Easier"](https://blogs.msdn.microsoft.com/bharry/2009/05/19/the-microsoft-sdl-process-template-making-secure-code-easier/) Brian Harry blog entry says this about Security Champions   
 
