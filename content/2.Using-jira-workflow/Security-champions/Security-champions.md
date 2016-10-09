@@ -1,6 +1,6 @@
 ## Security Champions
 
-* [What do Security Champions do?](What-do-security-champions-do.md)
+* [What is an Security Champion and what do they do?](What-is-an-security-champion.md)
 * [Becoming A Security Champion](Becoming-a-security-champion.md)
 * [Do you have an heartbeat, you qualify!](Do-you-have-an-heartbeat-you-qualify.md)
 * [If you don't have an Security Champion, get a mug](If-you-dont-have-an-sc-get-a-mug/If-you-dont-have-an-sc-get-a-mug.md)
