@@ -1,6 +1,6 @@
 ## Security Champions
 
-* [What do Security Champions do?](What-do-security-champions-do.md)
+* [What is an Security Champion and what do they do?](What-is-an-security-champion.md)
 * [Becoming A Security Champion](Becoming-a-security-champion.md)
 * [Do you have an heartbeat, you qualify!](Do-you-have-an-heartbeat-you-qualify.md)
 * [If you don't have an Security Champion, get a mug](If-you-dont-have-an-sc-get-a-mug/If-you-dont-have-an-sc-get-a-mug.md)
@@ -9,4 +9,4 @@
 * [Involvement in senior technical discussions](Involvement-in-senior-technical-discussions.md)
 * [Security Champions Don't Take it Personally](Security-champions-dont-take-it-personally.md)
 * [Supported by central AppSec](Security-champions.md)
-* [Public references to Security Champions teams](Public-references-to-Security-Champions-teams.md)
+* [Public references to Security Champions teams](Public-references-to-Security-Champions-teams/Public-references-to-Security-Champions-teams.md)

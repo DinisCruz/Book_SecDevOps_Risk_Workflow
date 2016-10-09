@@ -3,6 +3,10 @@ Content for 'JIRA Risk Project' book published at https://leanpub.com/jira-risk-
 
 The book is still under development, so if you spot any issues or have recommendations please fork this repository and submit a [Pull Request](https://github.com/DinisCruz/Book_Jira_Risk_Workflow/pulls) :)
 
+## JIRA Workflow as described in book
+
+![image](https://cloud.githubusercontent.com/assets/656739/19224067/987fe05c-8e75-11e6-99c5-b43ed0d42218.png)
+
 ## Issues and Discussion group
 
 If you have questions please create a new [Issue](https://github.com/DinisCruz/Book_Jira_Risk_Workflow/issues) here at gitHub.

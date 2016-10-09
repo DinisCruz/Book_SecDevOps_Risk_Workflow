@@ -1,6 +1,6 @@
 ### Public references to Security Champions teams
 
-** Microsoft**
+**Microsoft**
 
 The Microsoft Agile SDL describes them as Team Champions
 
