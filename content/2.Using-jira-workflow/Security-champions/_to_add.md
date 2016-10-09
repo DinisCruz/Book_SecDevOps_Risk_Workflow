@@ -1,3 +1,9 @@
+### To Add
+
+add references to
+
+ - [Creating a Security Champions Network](https://securingthehuman.sans.org/blog/2015/01/19/creating-a-security-champions-network)
+
 ### Security Champions
 
   - So you want to be an SC?

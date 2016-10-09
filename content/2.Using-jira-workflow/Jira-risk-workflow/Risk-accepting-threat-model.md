@@ -1,4 +1,4 @@
-**Risk accepting threat model**
+### Risk accepting threat model
 
 If you are having trouble getting the dev teams to do threat models with you, or for them to spend the time on those threat models, then the solution is to make them accept the risk incurred from having not done a threat model for the application.
 

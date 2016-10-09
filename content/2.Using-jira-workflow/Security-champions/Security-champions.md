@@ -1,4 +1,4 @@
-### Security Champions
+## Security Champions
 
 * [What do Security Champions do?](What-do-security-champions-do.md)
 * [Becoming A Security Champion](Becoming-a-security-champion.md)

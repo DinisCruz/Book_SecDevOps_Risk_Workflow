@@ -1,6 +1,6 @@
-## Risk issues on JIRA
+### Storing risk issues on JIRA
 
-### Is a JIRA ticket system a security risk
+Is a JIRA ticket system a security risk
 
   - Are they zero days?
   - Is it increasing the attack surface
