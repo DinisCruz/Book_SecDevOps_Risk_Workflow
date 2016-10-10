@@ -22,3 +22,6 @@ Emails are not a way to communicate official information; they are just a nice c
 The hyperlinkability of a piece of information is key, because once it has a hyperlinked location, you can point others to it, and a track record is created.
 
 The way I look at it, if information is not available on the hyperlink, it doesn't exist.
+
+SUGGESTION: also mention slack. The integration of slack with various tools in CI/CD is enourmous and in many companies it is becoming the glue between teams and tools. Slack is short-lived and needs acting upon or information disappears again.
+Also mention tools like confluence or sharepoint which can be used to document lessons learned, howto's, and best practices.
