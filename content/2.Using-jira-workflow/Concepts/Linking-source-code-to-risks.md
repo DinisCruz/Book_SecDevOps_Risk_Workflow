@@ -7,6 +7,7 @@
 * reinforces the concept that there is a cost (i.e. pollution) to write insecure and less-quality code
 * positive model where fixes will delete the comments
 * allows AppSec team to detect when security reviews and needed (in this case when the comments are removed)
+* build tools can scan for these comments and provide a 'risk debt' indicator
 
 
 * _add coffee-script example from 'Start with tests' presentation_
