@@ -16,7 +16,7 @@ For example every Threat (or RISK) in a Threat Model needs to have a correspondi
 
 A key concept is that we have to make it harder to development teams to add features that have Security and Quality implications.
 
-Other hand we can't really say NO to the business owners, since they are the ones that are responsible for the success of the current project, and have very legit reasons to ask for those features.
+On the other hand we can't really say NO to the business owners, since they are the ones that are responsible for the success of the current project, and have very legit reasons to ask for those features. Business wishes are driven by (end)user wishes; saying no to the business actually means saying no to the customer. The goal is to enable users to do what they want at an acceptable risk.
 
 By providing multiple paths (with and without additional or new RISK) we make it very clear of the implications of specific decisions.
 
