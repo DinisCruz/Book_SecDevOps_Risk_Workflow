@@ -7,7 +7,9 @@
 **That code sucks**
 
 - Ok can you prove it?
+-- Code analysers in IDE can help identify known bad patterns and provide awareness
 - Why is it bad?
 
 **In new code legacy**
 - if it also hard to refactor and change, then yes
+- sometimes external solutions (like a WAF) can be a more effective solution
