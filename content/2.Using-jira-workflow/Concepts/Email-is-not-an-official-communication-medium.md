@@ -1,11 +1,12 @@
 ### Email is not an Official Communication Medium
 
 Emails are conversations, they are not official communication mediums. In companies, there is a huge amount of information and decisions that is only communicated using emails, namely:
-  - risks,
-  - to-dos
-  - non-functional requirements
-  - re-factoring needs
-  - post-mortem analysis
+
+  * risks,
+  * to-dos
+  * non-functional requirements
+  * re-factoring needs
+  * post-mortem analysis
 
 This knowledge tends to only exist on an email thread or in a middle of document. That is not good enough. Email is mostly noise, and once something goes into an email, it is often very difficult to find it again.
 
@@ -23,5 +24,16 @@ The hyperlinkability of a piece of information is key, because once it has a hyp
 
 The way I look at it, if information is not available on the hyperlink, it doesn't exist.
 
-SUGGESTION: also mention slack. The integration of slack with various tools in CI/CD is enourmous and in many companies it is becoming the glue between teams and tools. Slack is short-lived and needs acting upon or information disappears again.
-Also mention tools like confluence or sharepoint which can be used to document lessons learned, howto's, and best practices.
+**The Slack revolution**
+
+There is a Real-time messaging revolution happening, driven by tools like Slack or Matter-most, which are quickly becoming central to development and operational teams (some still use old-school tools like Basecamp, Jabber, IRC, IM or Skype)
+
+One the real powers of this new generation of collaboration tools, is the integration with CI/CD and they capability to become the glue between teams and tools.
+
+The problem is that all data is short-lived and will soon disappear again (there are some limited search capabilities, which are as bad as email)
+
+**Using Wikis as knowledge capture**
+
+JIRA issues can also be hard to find, specially since they they to be laser sharp focused on specific topics.
+
+Labels, queries and reports help, but the best model is capture their knowledge, by linking to them on Wikis (like MediaWiki or Confluence) or Document Management tools (like Umbraco or Sharepoint). The idea is to document lessons learned, how-to's and best practices.
