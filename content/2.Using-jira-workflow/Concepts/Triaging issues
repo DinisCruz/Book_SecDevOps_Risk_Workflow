@@ -1,0 +1,12 @@
+### Triaging issues
+To prevent overfloading developers with duplicate issues or false positives, issues identified in vulnerability scans, code analysers, and penetration tests, should be triaged before pushing them to issue trackers.
+
+This is still an underdeveloped part of the appsecpipeline, but some tools exist that are attempting to do just that.
+
+Bag of Holding
+https://github.com/aparsons/bag-of-holding
+
+Defect Dojo
+https://github.com/OWASP/django-DefectDojo
+
+With these triage tools appsec specialists can already identify false positives, accepted risks, or theoretical vulnerabilities that are not relevant in the context of the system. This makes sure that developers only have to deal with the things that need actual fixing.
