@@ -10,3 +10,5 @@ Defect Dojo
 https://github.com/OWASP/django-DefectDojo
 
 With these triage tools appsec specialists can already identify false positives, accepted risks, or theoretical vulnerabilities that are not relevant in the context of the system. This makes sure that developers only have to deal with the things that need actual fixing.
+
+SUGGESTION: create a security jira workflow for the raw issues to act as a triage tool and push them to team boards after reviewing?
