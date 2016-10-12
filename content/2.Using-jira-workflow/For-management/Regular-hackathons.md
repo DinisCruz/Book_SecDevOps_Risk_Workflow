@@ -5,3 +5,4 @@
   * ideally this would happen every week, if not every 2,3 or 4 weeks
   * what is important is to have movement
 * fits well into 10% of research time that devs should have
+* inviting external persons (like e.g. pentesters that regulary test the applications) have the benefit of providing new insights
