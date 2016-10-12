@@ -1,4 +1,4 @@
-### Printed version
+## Printed version
 
 If you are reading this on a digital device, here are some reasons why you might want to consider buying the printed book [^printed-book]:
 
