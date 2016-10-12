@@ -17,3 +17,6 @@ In business today, security issues are directly correlated to quality issues. Ap
 This approach could scale.If I found problems, or if data was open, I could publish my analysis, others could consume it, and this would result in a much more peer-reviewed workflow for companies.
 
 This reflects my first point:  if I can’t understand a company's level of security because they don't have to publish it, this should change. And if it does, it will change the market.
+
+Having a responsible disclosure program or participating in a bug bounty program can also act as a quality indicatior.
+(Remark: I created an additional section for this topic)

@@ -8,3 +8,4 @@
     * where the new manager is usually not happy when seeing the Risks that are currently accepted and will now be his responsibility
     * the new manager only has a couple months where he can 'blame' this predecessor, after that he really 'owns' that Risk and has Accepted it
 * this workflow creates historical records of decisions
+* In agile envrionments the Product Owner is responsible for making the right decisions.

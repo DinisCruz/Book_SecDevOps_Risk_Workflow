@@ -8,3 +8,8 @@
 * outsource code tends to have lots of 'pollution' and RISKs that are not mapped (until it is too late)
   * liability and accountability of issues is a big problem
   * see OWASP Legal project for an idea of AppSec clauses to include in outsourcing contracts.
+* copyright infringes will become more of a problem in the future; this can be hard to identify in 3rd party components
+
+Notable tools:
+- OWASP Dependency checker can identify vulnerable components in use
+- several commercial tools exist that can identify copyright infringements in components
