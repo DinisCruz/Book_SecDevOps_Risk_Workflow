@@ -18,5 +18,6 @@ This approach could scale.If I found problems, or if data was open, I could publ
 
 This reflects my first point:  if I can’t understand a company's level of security because they don't have to publish it, this should change. And if it does, it will change the market.
 
-Having a responsible disclosure program or participating in a bug bounty program can also act as a quality indicatior.
-(Remark: I created an additional section for this topic)
+Having a responsible disclosure program or public bug bounty program is also as strong quality and security indicator.
+
+In fact, a company that doesn't have an public bug bounty program is basically advertising to the world the fact that they don't have an AppSec team.

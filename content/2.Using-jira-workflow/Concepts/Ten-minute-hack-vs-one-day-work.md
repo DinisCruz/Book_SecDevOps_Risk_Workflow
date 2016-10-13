@@ -12,13 +12,3 @@
 
 **In new code legacy**
 - if it also hard to refactor and change, then yes
-- sometimes external solutions (like a WAF) can be a more effective solution
-
-**Use frameworks**
-Many frameworks work as a wrapper around a 'raw' language and have built in mechanisms to prevent vulnerabilities.
-Examples are:
-- rails for ruby
-- django for python
-- angular for javascript
-
-Using these frameworks can help less experienced developers and act as a 'secure by default' mechanism. 
