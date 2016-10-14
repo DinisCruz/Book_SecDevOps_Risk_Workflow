@@ -1,6 +1,6 @@
 ### If you don't have an Security Champion  get a mug
 
-If your dev team doesn't have an assigned security team champion, get one of these Mugs :)
+If your developer team doesn't have an assigned security team champion, get one of these Mugs :)
 
 ![](images/Security-champion-mug.jpg)
 
