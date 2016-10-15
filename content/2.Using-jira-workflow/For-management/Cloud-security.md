@@ -1,4 +1,4 @@
-### Cloud Security Part 1 (2010)
+### Cloud Security
 
 One way in which cloud security differs from previous generations of security efforts, such as software security and website security, is that in the past, both software and website security were almost business disablers. The more features and the more security people added, the less attractive the product became. There are very few applications and websites that actually make the client need more security in order to do more business, which results in the best return on investment.
 
