@@ -8,7 +8,7 @@ Sometimes called the 'Memo from God' the most famous one is Bill Gates ['Trustwo
 
 #### Example of what it could look like
 
-Here is a variation of a memo that I wrote for a CTO (in a project were I was leading the AppSec efforts) which contains the key points to make. Note that the contents of this book are released under an Creative Commons licence (CC BY 3.0), which means you can reuse this text in its entirely on your organisation.
+Here is a variation of a memo that I wrote for a CTO (in a project where I was leading the AppSec efforts) which contains the key points to make. Note that the contents of this book are released under an Creative Commons licence (CC BY 3.0), which means you can reuse this text in its entirely on your organisation.
 
 > **From: CTO (or jointly with CEO)**
 >
@@ -79,14 +79,14 @@ Here is a variation of a memo that I wrote for a CTO (in a project were I was le
 >
 > The workflow of these issues is the following:
 >
-> 1) issue is opened (by anybody)
-> 2) issue is reviewed and expanded (for example to provide risk mappings, exploit details, references to similar issues)
-> 3)  technical/business owners decide if a) the issue should be fixed asap (one to two weeks) , or b) the issue is NOT going to be fixed (in the short term) and its risk needs to be accepted
-> 4) The issues to the fixed will be:
+> 1. issue is opened (by anybody)
+> 2. issue is reviewed and expanded (for example to provide risk mappings, exploit details, references to similar issues)
+> 3.  technical/business owners decide if a) the issue should be fixed asap (one to two weeks) , or b) the issue is NOT going to be fixed (in the short term) and its risk needs to be accepted
+> 4. The issues to the fixed will be:
 >    * moved into a ‘To Fix’ JIRA issue stage,
 >    * linked into issues that are focused in fixing the issue (in the respective repos)
 >    * closed when there is verification (by Security Champions) that the issue has been fixed
-> 5) The issues NOT to be fixed will be:
+> 5. The issues NOT to be fixed will be:
 >    * moved into a ‘To Accept Risk’ JIRA issue stage
 >    * assigned to the respective business/technical owner (who will have a button called ‘Accept Risk’ to click)
 >
