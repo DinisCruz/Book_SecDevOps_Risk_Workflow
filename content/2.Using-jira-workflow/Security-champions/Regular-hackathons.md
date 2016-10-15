@@ -1,5 +1,7 @@
 ### Regular Hackathons
 
+* to be organised by Security Champions
+* these are the next level of SCs applications
 * used to find issues and look at new features
 * every Friday or Monday afternoon (ideally with some beers and pizza)
   * ideally this would happen every week, if not every 2,3 or 4 weeks
