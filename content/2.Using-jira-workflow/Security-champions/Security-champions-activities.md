@@ -9,3 +9,9 @@ What do Security Champions do in they allocated day-to-day time (4h to 8th)
   * you know the model is working when the managers start asking: "Do you have enough time of those SC activities?", "Do you need help from other team members (i.e. more resources)"
     * eventually the SC should also be managing the AppSec tasks that are performed by other team members
 * the time allocation is better if done in blocks of 4h (over two days), or 2h every day (at the same time)  
+
+#### Other AppSec projects to be involved in
+
+* Map Attack Surface tool
+* Web Services Visualisation tool
+* Standard Schemas across the company
