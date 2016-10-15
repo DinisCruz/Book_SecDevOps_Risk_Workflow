@@ -7,6 +7,10 @@
 
 The Shellcoder’s Handbook is also a great book from an application security point of view, and they will basically walk you through the vulnerabilities.
 
+The Web Application Hackers Handbook provides a good and solid overview of problems in web applications and how to identify them
+
+The OWASP testing guide is also a good resource to start you AppSec skills.
+
 * add more books (with a small description each)
 
 **Vulnerable by design applications**
@@ -14,13 +18,15 @@ The Shellcoder’s Handbook is also a great book from an application security po
 Another great resource is the OWASP WebGoat Project which actually just released a new version, and it has a whole bunch of exercises in vulnerabilities so that you can learn how they work and they give you clues for if you get stuck. The first thing is to actually do those exercises and essentially hack into these applications.
 
 * Add more examples of apps, split by technology
-  * .Net - WebGoat.Net
-  * Java - WebBoat
+  * .Net - WebGoat.Net, HackmeBank
+  * Java - WebGoat
   * Node - NodeGoat, JuiceShop
+  * Ruby - Railsgoat
+  * php - Damn Vulnerable Web Application
   * Android - GoatDroid
   * iOS - iGoat
 * [OWASP Broken Web Applications Project](https://www.owasp.org/index.php/OWASP_Broken_Web_Applications_Project)
-
+* [OWASP Vulnerable Application Directory] (https://www.owasp.org/index.php/OWASP_Vulnerable_Web_Applications_Directory_Project)
 
 **Hack your apps**
 
