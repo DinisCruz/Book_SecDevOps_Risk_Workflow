@@ -8,7 +8,7 @@ Sometimes called the 'Memo from God' the most famous one is Bill Gates ['Trustwo
 
 #### Example of what it could look like
 
-Here is a variation of a memo that I wrote for a CTO (in a project were I was leading the AppSec efforts) which contains the key points to make. Note that the contents of this book are released under an Creative Commons licence (CC BY 3.0), which means you can reuse this text in its entirely on your organisation.
+Here is a variation of a memo that I wrote for a CTO (in a project where I was leading the AppSec efforts) which contains the key points to make. Note that the contents of this book are released under an Creative Commons licence (CC BY 3.0), which means you can reuse this text in its entirely on your organisation.
 
 > **From: CTO (or jointly with CEO)**
 >
