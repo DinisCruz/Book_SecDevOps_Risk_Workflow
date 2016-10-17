@@ -45,7 +45,8 @@ From [Secure_SDLC_Cheat_Sheet](https://www.owasp.org/index.php/Secure_SDLC_Cheat
 
 **BSIMM**
 
-... add details on how BSIMM describes them
+In BSI-MM security champions are named 'satelites' and described in section 2.3
+> The satellite begins as a collection of people scattered across the organization who show an above-average level of security interest or skill. Identifying this group is a step towards creating a social network that speeds the adoption of security into software development.
 
 **...others?**
 
