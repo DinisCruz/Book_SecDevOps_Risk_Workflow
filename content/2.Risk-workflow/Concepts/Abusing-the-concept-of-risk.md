@@ -1,6 +1,6 @@
 ### Abusing the concept of RISK
- 
-As you read this book you will notice liberal references to the concept of RISK liberally, especially when I discuss anything that has security or quality implications.
+
+As you read this book you will notice liberal references to the concept of RISK, especially when I discuss anything that has security or quality implications.
 
 The reason is I find that RISK is a sufficiently broad concept that can encompass issues of security or quality in a way that makes sense.
 
@@ -23,6 +23,3 @@ By providing multiple paths (with and without additional or new RISK) we make th
 What usually happens is that initially, Path A might look easier and faster than either of Paths B or C, but, after doing a Threat Model (i.e. creating a better brief) and mapping out Path A's RISK, in many cases Path B or C might be better options due to their reduced number of RISKs.
 
 It is important to have these discussions before any code is written and while there is still the opportunity to propose changes. I've been involved in many projects where the security/risk review only occurs before the project goes live, which means there is zero opportunity to make any significant architectural change.
-
-
-
