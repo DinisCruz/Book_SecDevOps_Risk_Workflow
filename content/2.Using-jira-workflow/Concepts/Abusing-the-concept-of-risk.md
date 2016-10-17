@@ -1,28 +1,28 @@
 ### Abusing the concept of RISK
+ 
+As you read this book you will notice liberal references to the concept of RISK liberally, especially when I discuss anything that has security or quality implications.
 
-As you read this book you will see that I have a very liberal use of the concept of RISK, which I tend to use for anything that has some kind of Security or Quality implication.
+The reason is I find that RISK is a sufficiently broad concept that can encompass issues of security or quality in a way that makes sense.
 
-The reason is because I found RISK to be wide enough concept that makes sense when talking about those issues.
+I know that there are many, more formal definitions of RISK and all its sub-categories that could be used, but it is most important that in the real world we keep things simple, and avoid a proliferation of unnecessary terms.
 
-Yes I know that there are much more formal definitions of RISK and all the sub-categories that can be used, but it is key that in the real-world we keep things simple and don't have an explosion of terms.
+Fundamentally, my definition of RISK is based on the concept of 'behaviours' and 'side-effects of code' (whether intentional or not). The key is to map reality and what is possible.
 
-Fundamentally my definition of RISK is based on the concept of 'Behaviours' and 'Side-Effects of code' (whetter intentional or not). The key is to map reality and what is actually possible.
+RISKs can also be used in multi-dimensional analysis, where multiple paths can be analysed, each with a specific set of RISKs (depending on the chosen implementation).
 
-RISKs can also be used in multi-dimensional analysis where multiple paths can be analysed, each with a specific set of RISKs (depending on the chosen implementation)
-
-For example every Threat (or RISK) in a Threat Model needs to have a corresponding RISK ticket, so that I can be tracked, managed and reported.
+For example, every threat (or RISK) in a threat model needs to have a corresponding RISK ticket, so that it can be tracked, managed and reported.
 
 **Making it expensive to do dangerous actions**
 
-A key concept is that we have to make it harder to development teams to add features that have Security and Quality implications.
+A key concept is that we must make it harder for development teams to add features that have security and quality implications.
 
-On the other hand we can't really say NO to the business owners, since they are the ones that are responsible for the success of the current project, and have very legit reasons to ask for those features. Business wishes are driven by (end)user wishes; saying no to the business actually means saying no to the customer. The goal is to enable users to do what they want at an acceptable risk.
+On the other hand, we can't really say 'No' to business owners, since they are responsible for the success of any current project, and they have very legitimate reasons to ask for those features. Business wishes are driven by (end)user wishes; saying no to the business means saying no to the customer. The goal, therefore, is to enable users to do what they want, with an acceptable level of risk.
 
-By providing multiple paths (with and without additional or new RISK) we make it very clear of the implications of specific decisions.
+By providing multiple paths (with and without additional or new RISK) we make the implications of specific decisions very clear.
 
-What usually happens is that Path A might look easier and faster initially (vs Path B or C), but after doing a Threat Model (i.e. creating a better brief) and mapping out its RISK, in lots of cases, Path B or C, might actually be better options due to the reduced number of RISKs they have
+What usually happens is that initially, Path A might look easier and faster than either of Paths B or C, but, after doing a Threat Model (i.e. creating a better brief) and mapping out Path A's RISK, in many cases Path B or C might be better options due to their reduced number of RISKs.
 
-What is important is to have these discussions before any code is written and while there is still the opportunity to propose changes. I've been involved in many projects where the Security/Risk review only occurs at before the project goes live, which means that there is zero opportunity to make any significant architectural change.
+It is important to have these discussions before any code is written and while there is still the opportunity to propose changes. I've been involved in many projects where the security/risk review only occurs before the project goes live, which means there is zero opportunity to make any significant architectural change.
 
 
-**Pollution analogy**
+
