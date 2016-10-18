@@ -21,5 +21,3 @@ This can backfire when Frameworks perform complex and dangerous operations 'auto
     * Ember SafeHtml
     * OpenAM SQL Query Injection on code sample (and see in live app)
     * Android query SQL Injection (on some parameters)
-
- * add reference (and some content from) _[Secure coding (and Application Security) must be invisible to developers](blog.diniscruz.com/2012/04/secure-coding-and-application-security.html)_
