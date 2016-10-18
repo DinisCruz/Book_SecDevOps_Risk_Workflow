@@ -1,13 +1,13 @@
-**Developer Teams Need Budgets**
+### Developer Teams Need Budgets
 
-Business needs to trust developer teams, they need to trust that dev team wants to do the best for that particular project, and that company. And if they don't, then they will have a bigger problem.
+Business needs to trust developer teams. Business needs to trust that developers want to do their best for their projects, and for their company. And if business doesn't learn to trust its developer teams, problems will emerge. 
 
-And one great way to show that trust is to give that team the power to have a budget, the power to be able to spend money on things that the team believes is best for that team. And this means from perks to devs like going to conferences, buying books, buying things which basically a lot of times a company will get but it is always a struggle, it is always a request, it is always this inertia, it is always this kind of balance of power and there is always this gain that you don't know that sometimes it is easy to ask for fifty pounds than it is to ask for five thousand up to fifty thousand.
+A great way to show trust is to give the developer team a budget, and with it the power to spend money on things that will benefit the team. This could include perks for developers such as conference attendance, buying books, or buying things which are normally a struggle to obtain. It is often the case that companies will purchase items for a team when requested, but first the team must struggle to overcome the company's apathy to investing in the developer team. The balance of power never lies with the team, and that imbalance makes it hard to ask for items to be purchased. Inconsistencies are also a problem: sometimes it can be easier to ask for £5,000, or for £50,000, than it is to ask for £50.
 
-So that imbalance is hard to ask for those things. So those imbalances are really hard on teams, or those inconsistencies are really hard on teams.
+Companies need to treat developer teams as the adults they are, and they need to trust them.  My experience in all aspects of organizations is that it is difficult to spend money.
 
-So what you really want is the teams to be empowered to make those decisions, you need to treat them as adults that they are, you need to trust them, I need to basically say here is a budget I trust you to do the right thing, and my experience in all aspects of organizations shows that it is really hard to spend money.
+When you spend money, especially in an open-ended way, your expenditure is recorded and it becomes official.  If your investment doesn't yield good results for the company, you will be held accountable.
 
-Because when you spend money especially on that open ended kind of way, you go on a record and it is official, it is either what you do better work out or in a way you start to be accountable.
+Therefore, allocating a budget to the developer teams will keep the teams honest, and will direct their focus to productive investments. Purchases could range from buying some tools for the developers, to buying a trip, or even to outsourcing some work to a freelancer.
 
-So it is a very nice kind of double sworded way of keeping the teams honest, and to allow them to focus on what is productive. And this could be something like buying a little bit of tool for the developers, buying stuff that they need, buying a trip, literally operational expenses for the team even hiring a freelancer on one of the freelancing websites just to do some work that can actually be easily outsourced to somebody else.
+Spending on the operational expenses for the team will yield benefits both to developer teams and to business.
