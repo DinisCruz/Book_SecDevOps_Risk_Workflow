@@ -10,6 +10,4 @@ You should have tests for both the things you know are problems, and the things 
 
 Be sure that you have enough coverage of those tests. You also want to relate this to code coverage and to functionality, because you want to make sure that there is direct alignment between what is possible on the application and what is invoked by the test they should match.
 
-This is the hard question that the guys who do interactive testing and dynamic testing ask: When you do static analysis, how much coverage do you really have of the application, how deep can you go?
-
-So, by having tests that both succeed and fail, by exploiting vulnerabilities although all tests always pass, you have much a stronger assurance of what is happening in the application.
+The objective is to have much a stronger assurance of what is happening in the application, and to detect future vulnerabilities (created in locations that were not vulnerable at the time of the last security assessment)
