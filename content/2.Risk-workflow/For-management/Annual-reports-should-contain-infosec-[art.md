@@ -1,4 +1,4 @@
-**Annual Reports should contain Info sec Part**
+### Annual Reports should contain Info sec Part
 
 Annual reports should have an info sec and app sec section, they should list to the business their activities, and they should provide very detailed answers to what is going on.
 
