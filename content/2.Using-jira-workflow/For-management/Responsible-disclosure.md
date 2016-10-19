@@ -11,3 +11,7 @@ Having a responsible disclosure process and/or participating in programs like Ha
 
 * add diagram (from XYZ)
   * real world example of using an JIRA workflow to manage submissions received 
+
+#### Bug bounties can backfire
+
+http://www.forbes.com/sites/thomasbrewster/2016/07/13/fiat-chrysler-small-bug-bounty-for-hackers/#58cc01f4606f
