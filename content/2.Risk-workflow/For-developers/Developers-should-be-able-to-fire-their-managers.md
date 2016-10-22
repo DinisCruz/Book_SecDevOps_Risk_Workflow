@@ -1,4 +1,4 @@
-### Developers Should be Able to Fire Their Managers
+### Developers should be able to fire their managers
 
 Many problems developer teams deal with arise from the inverted power structure of their working environment. The idea persists that the person managing the developers is the one who is ultimately in charge, responsible, and accountable.
 
