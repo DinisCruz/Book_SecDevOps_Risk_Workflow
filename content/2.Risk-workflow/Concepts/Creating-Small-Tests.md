@@ -10,10 +10,10 @@ What is very important is that you have a place to put all those little things a
 
 This will also provide way to measure exactly what will occur during a quality pass (or sprint). i.e. what to do when focusing on cleaning and improving the quality the application.
 
-The smaller the issue, the smaller the commit, the smaller the tests will be. All make the whole process much more smoother and easier to review.
+The smaller the issue, the smaller the commit, the smaller the tests will be. All make the whole process much smoother and easier to review.
 
 It will also create a great two-way communication system between Development and AppSecs, since it's great place for the team to collaborate.
 
-When the new Developers joins the team, they should be starting with fixing those bugs and creating tests for them (which will really help them to understand what is going on and how the application works).
+When a new Developer joins the team, they should be started with fixing bugs and creating tests for them (which can be a great way for the new team member to understand what is going on and how the application works).
 
 I also find that fixing these kind of easy tests are a good warm up for more complex Development tasks.
