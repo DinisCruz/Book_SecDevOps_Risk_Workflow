@@ -1,4 +1,4 @@
-### Confluence
+### Confluence
 
 - Atlassian wiki solution
 - Tight integration with JIRA
