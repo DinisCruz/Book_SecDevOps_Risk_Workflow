@@ -14,6 +14,6 @@ Referencing is important in programming because often, once you know something i
 
 Having those references makes a big difference because when you look at a problem it is important to know which rabbit holes you can follow and which ways will create good and sound solutions and which ones don't. This is especially important when we talk about testing the app: there tends to be a lot of interesting lateral thinking and creative thinking required to come up with innovative solutions to test specific things.
 
-My argument is that when you do application security, you become a better developer. Your toolkit expands, your mind opens, and you learn a lot. In the last few months alone, I had to learn and review different languages and frameworks such as Spark, Go, Camel, Objective C, Spring, and Open IM.
+My argument is that when you do application security, you become a better developer. Your toolkit expands, your mind opens, and you learn a lot. In the last few months alone, I had to learn and review different languages and frameworks such as Golang, Spark, Camel, Objective C, Swift and OpenIDM.
 
 After a while learning new systems becomes easier, and the ability to make connections makes you a better developer because you are more skilled at observing concepts and technologies.
