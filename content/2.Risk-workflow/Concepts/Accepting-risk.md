@@ -4,8 +4,8 @@ Accepting risk is always a topic of discussion, mostly caused by lack of informa
 
 Risks can be accepted for a variety of reasons:
 
-  * the system containing the risk will be decommissioned in the short term
-  * the risk can only occur under very specific circumstances; these would already have caused a bigger risk
+  * the system containing the risk will be decommissioned in the short term, and does not handle or process sensitive information
+  * the risk can only occur under very specific circumstances 
   * the cost of fixing (both money and other resources) is much higher than the cost of fixing operational issues  
   * the business is okay with the probability of occurrence and its financial/commercial impact
   * the system is still under development and it is not live
@@ -21,7 +21,7 @@ Risks should never be accepted for issues that
 
 Not being attacked is both a blessing and a curse. It's a blessing for a company that has not gone through the pain of an attack, but a curse because it is easy to gain a false sense of security.
 
-The real challenge for companies that have NOT been attacked properly, or publicly, and don't have an institutional memory of those incidents, is to be able to quantify these risks in real business and financial terms.
+The real challenge for companies that have NOT been attacked properly, or publicly, and don't have an institutional memory of those incidents, is to be able to quantify these risks in real business, financial, and reputational terms.
 
 This is why exploits are so important for companies that don't have good internal references (or case studies) on why secure applications matter.
 
