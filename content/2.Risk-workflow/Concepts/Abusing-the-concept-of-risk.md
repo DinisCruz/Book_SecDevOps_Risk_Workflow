@@ -25,9 +25,3 @@ What usually happens is that initially, Path A might look easier and faster than
 It is important to have these discussions before any code is written and while there is still the opportunity to propose changes. I've been involved in many projects where the security/risk review only occurs before the project goes live, which means there is zero opportunity to make any significant architectural change.
 
 Release Management (RM) should be the gating factor. RM should establish quality gates based on business and security team minimum bar. (no P-0 security bugs, possibly no P-1 if publicly facing, etc)
-
-_**todo**_
-
-* add something regarding privacy, if an app is compromised how do you protect the data since that is the reason for needing security. Perimeter security only goes so far, bottom line is to protect the data.
-* mention methods such as STRIDE, CIA, etc. to help with defining the risks
-* make a reference to the appendix where the concepts of RISK and behaviors is expanded
