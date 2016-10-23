@@ -6,9 +6,9 @@ The reason is I find that RISK is a sufficiently broad concept that can encompas
 
 I know that there are many, more formal definitions of RISK and all its sub-categories that could be used, but it is most important that in the real world we keep things simple, and avoid a proliferation of unnecessary terms.
 
-Fundamentally, my definition of RISK is based on the concept of 'behaviours' and 'side-effects of code' (whether intentional or not). The key is to map reality and what is possible.
+Fundamentally, my definition of RISK is based on the concept of 'behaviors' and 'side-effects of code' (whether intentional or not). The key is to map reality and what is possible.
 
-RISKs can also be used in multi-dimensional analysis, where multiple paths can be analysed, each with a specific set of RISKs (depending on the chosen implementation).
+RISKs can also be used in multi-dimensional analysis, where multiple paths can be analyzed, each with a specific set of RISKs (depending on the chosen implementation).
 
 For example, every threat (or RISK) in a threat model needs to have a corresponding RISK ticket, so that it can be tracked, managed and reported.
 
@@ -24,6 +24,10 @@ What usually happens is that initially, Path A might look easier and faster than
 
 It is important to have these discussions before any code is written and while there is still the opportunity to propose changes. I've been involved in many projects where the security/risk review only occurs before the project goes live, which means there is zero opportunity to make any significant architectural change.
 
-Release Management (RM) should be the gating factor. RM should establish quality gates based on business and security team minimum bar. (no P-0 security bugs, possibly no P-1 if publically facing, etc)
+Release Management (RM) should be the gating factor. RM should establish quality gates based on business and security team minimum bar. (no P-0 security bugs, possibly no P-1 if publicly facing, etc)
 
+_**todo**_
 
+* add something regarding privacy, if an app is compromised how do you protect the data since that is the reason for needing security. Perimeter security only goes so far, bottom line is to protect the data.
+* mention methods such as STRIDE, CIA, etc. to help with defining the risks
+* make a reference to the appendix where the concepts of RISK and behaviors is expanded
