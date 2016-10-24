@@ -1,11 +1,12 @@
-### What is an Security Champion and what do they do?
+### What is a Security Champion and what do they do?
 
 Security Champions are a key element of an AppSec team, since they create an cross-functional team focused on Application Security
 
-**What is an Security Champion?**
+**What is a Security Champion?**
 
   *  Security Champions are active members of a team that may help to make decisions about when to engage the Security Team
   *  Act as the "voice" of security for the given product or team
+  *  Aim to bridge the gap between security and dev teams
   *  Assist in the triage of security bugs for their team or area
 
 **What do they do?**
