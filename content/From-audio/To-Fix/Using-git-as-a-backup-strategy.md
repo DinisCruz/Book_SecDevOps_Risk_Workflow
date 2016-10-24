@@ -1,4 +1,4 @@
-### Using Git As A Backup Strategy
+### Using Git as a Backup Strategy
 
 When you code, you inevitably go on different tangents. Git allows you to keep track of all those tangents, and it allows you to record and save your progress.
 
