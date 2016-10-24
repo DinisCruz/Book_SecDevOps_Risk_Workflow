@@ -1,7 +1,7 @@
-# Book Jira Risk Workflow
-Content for 'JIRA Risk Project' book published at https://leanpub.com/jira-risk-workflow
+# Book SecDevOps Risk Workflow
+Content for _'SecDevOps Risk Workflow'_ book published at https://leanpub.com/secdevops
 
-The book is still under development, so if you spot any issues or have recommendations please fork this repository and submit a [Pull Request](https://github.com/DinisCruz/Book_Jira_Risk_Workflow/pulls) :)
+The book is still under development, so if you spot any issues or have recommendations please fork this repository and submit a [Pull Request](https://github.com/DinisCruz/Book_SecDevOps_Risk_Workflow/pulls) :)
 
 ## JIRA Workflow as described in book
 
@@ -9,23 +9,23 @@ The book is still under development, so if you spot any issues or have recommend
 
 ## Issues and Discussion group
 
-If you have questions please create a new [Issue](https://github.com/DinisCruz/Book_Jira_Risk_Workflow/issues) here at gitHub.
+If you have questions please create a new [Issue](https://github.com/DinisCruz/Book_SecDevOps_Risk_Workflow/issues) here at gitHub.
 
 ##Buy eBook##
 
 If you can, please buy the book since it will help with production, design, editing and layout costs.
 
-Leanpub provide a nice shooping card solution which allows you to chose which price to pay: [Buy Jira Risk Workflow](https://leanpub.com/jira-risk-workflow/overview)
+Leanpub provide a nice shopping card solution which allows you to chose which price to pay: [Buy SecDevOps Risk Workflow](https://leanpub.com/secdevops/overview)
 
-![image](https://cloud.githubusercontent.com/assets/656739/19205893/0656dc10-8cdd-11e6-9033-72b1138a6801.png)
+[![](https://cloud.githubusercontent.com/assets/656739/19657926/e1593cc0-9a1d-11e6-8fd7-f5ab14df8734.png)](![https://leanpub.com/secdevops)
 
 
 
-**Setup**
+**Dev Setup**
 
 ```bash
-git clone git@github.com:DinisCruz/Book_Jira_Risk_Workflow.git
-cd Book_Jira_Risk_Workflow
+git clone https://github.com/DinisCruz/Book_SecDevOps_Risk_Workflow
+cd Book_SecDevOps_Risk_Workflow
 git submodule init
 cd leanpub-book-site
 git checkout for_Book_Jira_Risk_Workflow
