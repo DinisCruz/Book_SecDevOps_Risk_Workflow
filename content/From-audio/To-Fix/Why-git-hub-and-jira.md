@@ -1,11 +1,11 @@
-**Why Git Hub And Jira**
+### Why GitHub and JIRA? 
 
-My current experience is that only git hub and jira have the work flows and the speed that allows these risk work flows to be used properly in the real world. 
+My current experience is that only GitHub and JIRA have the workflows and the speed that allow these risk workflows to be used properly in the real world. 
 
-I know there are other tools out there that basically try to map this and create some UIs for it, but I found that you need something that is actually very, very close to the way the developers work. It is very connected to the source code which is basically what these tools have.
+I know there are other tools available that try to map this and create some UIs for risk workflows, but I believe that you need something very close to the way developers work. GitHub and JIRA meet this essential requirement, as they are both connected to the source code.  
 
-Jira is more powerful from a point of view of work flows, you can have more complex work flows which is quite interesting in some ways and you do get a nice risk acceptance button which is also very powerful.
+JIRA is more powerful from the point of view of workflows. JIRA allows you to have more complex workflows, which is quite interesting, and JIRA gives you a risk acceptance button, which is very powerful.
 
-Git hub is actually simpler, and in some ways can actually be easy to use and is faster to use although it's reporting capabilities aren't as built as with jira.
+GitHub is simpler than JIRA, and can be easier and faster to use, although its reporting capabilities aren't as built as JIRA's.
 
-But these two tools are the ones I have seen that can really make this work flow work in the real world.
+These two tools are the only ones I have seen that can make this workflow perform in the real world.
