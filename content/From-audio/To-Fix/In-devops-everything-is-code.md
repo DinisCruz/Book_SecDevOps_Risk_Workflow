@@ -1,12 +1,12 @@
 ### In Development and Operations Everything is Code
 
-A big gap in the development and operations (DevOps) workflow is the lack of application security practices. One cause of this gap is the fact that a good number of DevOps teams come from network and infrastructure backgrounds, or network security backgrounds, and they don't come from coding. However, teams with developers can implement application security practices quite effectively.
+A big gap in the development and operations (DevOps) workflow is the lack of application security practices. One cause of this gap is the fact that a good number of DevOps teams come from network and infrastructure backgrounds, or network security backgrounds, rather than from coding. However, teams with developers can implement application security practices quite effectively.
 
 Another gap in the DevOps workflow is the lack of realization that every single configuration, change, and environment in a DevOps pipeline is code. This needs to be versioned, version controlled, managed, released, and tested. The code needs everything that we talk about in relation to application development and application security.
 
 Because most code tends to run with admin privileges and admin access, code is very powerful. Any vulnerability in code, any exploit or blind spot, any lack of settings, even malicious code or malicious changes, will have a tremendous impact on the company's risk profile.
 
-You need to look at where the jerkins is built, what its status is, and what code runs on it. I like the idea that you create pristine built which are supported by the network teams and the DevOps teams. These are created very cleanly with very little side effects, and with a full understanding of what is going on. In a lot of cases they are created with read-only access to certain things, because it should be modifying stuff.
+You need to look at where the Jenkins is built, what its status is, and what code runs on it. I like the idea that you create a pristine build which the network teams and the DevOps teams support. These builds are created very cleanly with very little side effects, and with a full understanding of what is going on. In a lot of cases they are created with read-only access to certain things, because the build tool should be modifying continuously.
 
 The key paradigm shift here is to realize that we need all the AppSec practices in everything that happens in the DevOps world. A good example is an identity solution I participated in where the code in itself, in isolation, was rock solid.
 
