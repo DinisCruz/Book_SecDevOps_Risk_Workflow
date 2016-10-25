@@ -12,6 +12,6 @@ The smaller the issue, the smaller the commit, the smaller the tests will be. As
 
 It also creates a great two-way communication system between Development and AppSec, since it provides a great place for the team to collaborate.
 
-When new developers join the team, they should start with fixing those bugs and creating tests for them. This will help them to understand what is going on, and how the application works.
+When a new developer joins the team, they should start with fixing bugs and creating tests for them. This can be a great way for the new team member to understand what is going on, and how the application works.
 
-Fixing these easy tests is also a good warm-up for more complex development tasks.
+Fixing these easy tests is also a good preparation for tackling more complex development tasks.
