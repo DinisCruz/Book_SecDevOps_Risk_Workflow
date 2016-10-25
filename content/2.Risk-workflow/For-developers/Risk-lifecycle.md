@@ -16,7 +16,7 @@ digraph {
 
 ----
 
-It is key that a Test that replicates the issue reported is created.
+It is key that a test that replicates the issue reported is created.
 
 The tests result for each of the bottom layers mean different things:
 
