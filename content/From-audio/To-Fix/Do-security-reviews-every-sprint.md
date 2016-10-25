@@ -1,9 +1,9 @@
-**Do security reviews every sprint**
+### Do security reviews every sprint
 
-If you have an agile development environment, you need to do security process and security reviews at the end of every sprint. So, in the period between the sprint is finishing and going live, you really need to do a push to get a sense whether the original threats and issues that were discovered or highlighted in the threat model which would have been done before in that sprint were actually done, or don't exist, in a way verified.
+If you have an agile development environment, you need to implement security procedures and security reviews at the end of every sprint. In the period between the sprint finishing and going live, you need to do a push to get a sense of whether the original threats and issues, that were highlighted in the threat model, were done, or exist, in a verifiable way.
 
-So, this shouldn't be done by the security team, in a way there is a scale, centralized security team I mean. What the scale is, is for the security champion or security contact of each team to do that in his one day a week list time that he spends on the application.
+This task shouldn't be done by the scale, centralized security team. The security champion or contact of each team should do the scale in the one-day-a-week list time that he spends on the application.
 
-Now, if you do a threat model, one of the things that you can do is you can actually know in advance which apps will need a more in depth security review, will need a more in depth security analysis, maybe because of the size of the changes and maybe because of what they are doing or the assets they are touching, and then you can actually schedule the resources.
+If you create a threat model, you can know in advance which apps will need a more indepth security review or analysis, possibly because of the size of the changes, and possibly because of what they are doing, or the assets they are touching. You can then schedule the resources.
 
-And you can actually plan to be involved or deeply involved from a more central and more senior point of view. 
+You can also plan the level of your involvement from a more central, and a more senior, point of view. 
