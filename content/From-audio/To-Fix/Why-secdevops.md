@@ -2,7 +2,7 @@
 
 I like SecDevOps because it reinforces the idea that is an extension of DevOps. SecDevOps points to the objective that eventually we want the Sec part to disappear and leave us with DevOps.
 
-Ultimately, we want an environment where 99% of the time, DevOps don't care about security. They programme in an environment where they either cannot create security vulnerabilities, or it is hard to create them, or it is easy to detect security issues when they occur. 
+Ultimately, we want an environment where 99% of the time, DevOps don't care about security. They program in an environment where they either cannot create security vulnerabilities, or it is hard to create them, or it is easy to detect security issues when they occur. 
 
 This doesn't mean you don't need security teams, or AppSec experts. It doesn't mean you don't need a huge amount of work behind the scenes, and a huge amount of technology to create those environments.
 
@@ -18,6 +18,6 @@ So, I think SecDevOps represents an interesting point in history, where we are t
  
 This relates closely to my ideas about using AppSec to measure quality. Ultimately, the quality of the application is paramount when we are trying to eliminate the unintended consequences of software. 
 
-DevSecOps initially sounds better because development goes first. But I agree with the view of DevSecOps as being more about applying development to security operations. We need that to be secure, as it is still an area where great gaps exist. The key to closing those gaps is DevOps, the key is SecDevOps, which is what SecOps should be all about.
+DevSecOps initially sounds better because development goes first. But I agree with the view of DevSecOps as being more about applying development to security operations (SecOps).
 
 This all ties together with the risk workflows that make things more connected and accountable.
