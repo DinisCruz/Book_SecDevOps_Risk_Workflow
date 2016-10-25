@@ -1,14 +1,14 @@
-### Annual Reports should contain Info sec Part
+### Annual Reports should contain a section on InfoSec
 
-Annual reports should have an info sec and app sec section, they should list to the business their activities, and they should provide very detailed answers to what is going on.
+Annual reports should include sections on InfoSec and AppSec, which should list their respective activities, and provide very detailed information on what is going on.
 
-So, most companies have Intel dashboards of vulnerabilities, basically awareness of what is going on. That data should be published because only then, you can actually make the market work and reward companies. And make them understand that they need to invest and understand the pollution that happens when you have rented projects with crazy deadlines and don't really have the right resources but somehow manage to deliver.
+Most companies have Intel dashboards of vulnerabilities, which measure and map risk within the company. Companies should publish that data, because only when it is visible can you make the market work and reward companies. Obliging companies to publish security data will make them understand the need to invest, and the consequences of the pollution that happens when you have rented projects with crazy deadlines and inadequate resources, but somehow manage to deliver.
 
-Which in a way is due to some heroic effort from some developers, who sometimes work their ass off to deliver something spectacular, and the management get rewarded by pushing them really hard. And then what you end up having is this highly spectacular vulnerabilities being created and highly spectacular risks that are now being bought by the company. And they don't even realise until it blows up one day.
+The ability to deliver in such chaotic circumstances is often due to the heroic efforts of developers, who work extremely hard to deliver high quality projects, but get rewarded only by being pushed even more by management. This results in extraordinary vulnerabilities and risks being created and bought by the company. Of course, the company doesn't realize this until the vulnerabilities are exploited.
 
-In Agile environments it's important to also provide relative numbers like:
+In agile environments, it's important to provide relative numbers such as:
 
 * Risk issues vs velocity
 * Risk issues vs story points
 
-By analysing these numbers over time, the tipping point (where quality/security is no longer in focus) can become painfully clear.
+By analyzing these numbers over time, the tipping point, where quality and security are no longer in focus, can become painfully clear.
