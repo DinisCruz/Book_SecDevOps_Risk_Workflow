@@ -1,14 +1,14 @@
 ### AppSec memo from God
 
-Having an Board level mandate is very important since it sends a strong message of AppSec importance.
+Having a board-level mandate is very important since it underlines the importance of of AppSec.
 
-The best way to provide a mandate to the existing AppSec team is to send a  memo to the entire company, providing a vision for AppSec and re-enforcing its board-level visibility.
+The best way to provide a mandate to the existing AppSec team is to send a memo to the entire company, providing a vision for AppSec and re-enforcing its board-level visibility.
 
-Sometimes called the 'Memo from God' the most famous one is Bill Gates ['Trustworthy computing'](https://news.microsoft.com/2012/01/11/memo-from-bill-gates) memo from January 2002 (responsible for making Microsoft turn the corner on AppSec)
+Sometimes called the 'Memo from God', the most famous one is Bill Gates' ['Trustworthy computing'](https://news.microsoft.com/2012/01/11/memo-from-bill-gates) memo from January 2002 (responsible for making Microsoft turn the corner on AppSec)
 
-#### Example of what it could look like
+#### Example of an AppSec memo 
 
-Here is a variation of a memo that I wrote for a CTO (in a project where I was leading the AppSec efforts) which contains the key points to make. Note that the contents of this book are released under an Creative Commons licence (CC BY 3.0), which means you can reuse this text in its entirely on your organisation.
+Here is a variation of a memo that I wrote for a CTO (in a project where I led the AppSec efforts) which contains the key points to make. Note that the contents of this book are released under a Creative Commons licence (CC BY 3.0), which means you can reuse this text, in its entirety, in your organisation.
 
 > **From: CTO (or jointly with CEO)**
 >
