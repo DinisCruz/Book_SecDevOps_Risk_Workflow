@@ -1,8 +1,11 @@
-### Capture knowledge when devs look at code
+### Capture knowledge when developers look at code
 
-- it is key that when a development is looking at code, he has the easy capability to create tickets for 'things noticed'.
-- for example methods that need refactoring, complex logic, weird code, hard to visualize architecture, etc...
-- if this info/knowledge is not captured, it will be lost
-- note that the developer that notices the issue (and opens the ticket) is not able to do something about it (at that moment in time), since he will be focused on solving another bug.
-- this can be facilitated by more junior devs (or graduates/work-experience) which can take the responsibility to open and manage these tickets
-  - they could even have a go that addressing them (with the developer being the one that merges the PRs)
+It is vital that when a developer is looking at code, he can create tickets for 'things noticed' without difficulty.
+For example, 'things noticed' include methods that need refactoring, complex logic, weird code, hard-to-visualize architecture, etc.
+If this knowledge is not captured, it will be lost. 
+
+The developer who notices an issue, and opens a ticket for the issue, will be unable to do anything about it at that moment in time, since he will already be focused on resolving another bug.
+
+Instead, more junior developers, graduate employees or interns could take responsibility for opening and managing these tickets.
+
+They could even try to address the issues in the first instance, because the developer is responsible for merging the PRs.
