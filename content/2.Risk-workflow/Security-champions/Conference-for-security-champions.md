@@ -1,13 +1,12 @@
 ### Conference for Security Champions
 
-Every 6 to 12 months, it is good to have a conference exclusively dedicated to Security Champions (specially for companies that multiple locations and where the Security Champions don't meet regularly in person)
+Every 6 to 12 months, it is a good idea to hold a conference exclusively dedicated to security champions, particularly for companies that have multiple locations, where its security champions don't meet regularly in person.
 
 
-  * Bring external speakers to present on specific topics
-    * if there are already a number of external AppSec consulting companies under contract, the consultants involved in existing projects are perfect candidates to present
-      * they can use their own examples and stories
-      * make it easier to present internal materials if all participants are under NDA
-  * never underestimate the power of team collaboration and on getting team members to know each other
-  * social events are quite important
-  * the model of OWASP Summit's is also a good one
-  * Microsoft Blue Hat is a good example of what this could look like (find other examples)
+At the conference, external speakers should present on specific topics.
+
+If there are already several external AppSec consulting companies under contract to the hosting company, the consultants involved in existing projects are perfect candidates to present to the conference. They can use their own examples and stories, and it is easier to present internal materials if all participants are signed-up to the same NDA (Non-Disclosure Agreement).
+
+Never underestimate the power of team collaboration, or of team members getting to know each other. Social events are important, and the model of the OWASP Summit is also a good example of a conference for security champions, as is the Microsoft Blue Hat security conference. 
+
+(find other examples)
