@@ -50,7 +50,7 @@ Here is a variation of a memo that I wrote for a CTO (in a project where I was l
 >
 > The key objective is that when (not if) one of you create a security vulnerability (which is as inevitable as bugs) we have systems, technology and workflows in place to detect it before that code hits a live server.
 >
-> This means that we will be introducing Static (SAST) and Dynamic (DAST) software analysis tools and will be looking to expand our current Unit/Integration/E2E testing to incorporate ‘attack patters’ and ‘architectural checks’
+> This means that we will be introducing Static (SAST) and Dynamic (DAST) software analysis tools and will be looking to expand our current Unit/Integration/E2E testing to incorporate ‘attack patterns’ and ‘architectural checks’
 >
 > **4) Security data classification and Attack Surface**
 >
