@@ -31,6 +31,6 @@ This is the power of DevOps.
 
 You need to be able to take everything apart, and rebuild everything that is interconnected. You can use surrogate dependencies to mock-up certain external dependencies, but the idea is to have as much of the code running as possible at any given time.
 
-To make all this work, the developer needs to have access to reliable and rebuildable environments. The developer needs to from an development workflow of running a change that executes in a purely traditional unit test, to a test that runs very fast, as if it is running on a machine, to a full-blown integration test.  
+To make all this work, the developer needs to have access to reliable and rebuildable environments. The developer needs to go from making changes that are tested using traditional unit tests, to full-blown integration tests, all triggered during developement by code changes.  
 
 From here the code/config change can proceed from running from an single machine, to a local or quasi-local environment, to the cloud environment that runs with the back-end and front-end components, and with all the components integrating.
