@@ -1,7 +1,7 @@
 ### Feedback loops are key
 
-An error often made is not spending enough energy and focus in finding the root cause of issues discovered/exploited.
+A common error occurs when the root cause of newly discovered issues or exploits receives insufficient energy and attention from the right people.
 
-Incidents get identified by operational monitoring or incident response teams, are send to a security department, and after some analysing are directed to development teams as tickets. The development teams have no knowing of the original incident and cannot put the request in the right perspective. This can lead to sub optimal fixes with undesired side-effects.
+Initially, operational monitoring or incident response teams identify new incidents. They send the incidents are to the security department, and after some analysis the development teams receive them as tickets. The development teams receive no information about the original incident, and are therefore unable to frame the request in the right perspective. This can lead to suboptimal fixes with undesired side effects.
 
-It is beneficial to include development teams in the root cause analysis from the start to make sure the best solution can be identified.
+It is beneficial to include development teams in the root cause analysis from the start, to ensure the best solutions can be identified.
