@@ -16,7 +16,7 @@ Let's look at investments, as it is now easier and easier for people to invest i
 
 If you have a company which is growing very fast, it makes a massive difference if the company is on a scalable platform or not.
 
-In the past, companies could afford to let their site 'blow up' and then address problems after they occurred. That is no longer possible, due to the side effects, and particularly the security side effects, of any crashes or instability. Today, the more successful a company becomes, the more attackers will focus on it. If there are serious security vulnerabilities, they will be exploited faster than the company can address them, and this will affect real users and real money. We can see this happening with cars and the IoS (Internet of Things).
+In the past, companies could afford to let their site 'blow up' and then address problems after they occurred. That is no longer possible, due to the side effects, and particularly the security side effects, of any crashes or instability. Today, the more successful a company becomes, the more attackers will focus on it. If there are serious security vulnerabilities, they will be exploited faster than the company can address them, and this will affect real users and real money. We can see this happening with cars and the IoT (Internet of Things).
 
 There is still a huge amount of cost in moving away from products/technologies, which is I call the 'lock-in index', and is whatever 'locks' the customer to the software.
 
