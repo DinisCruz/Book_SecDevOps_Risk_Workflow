@@ -1,8 +1,8 @@
 ### The smaller the ticket scope the better
 
-For bugs and tasks, the smaller the bug the better
+For bugs and tasks, the smaller the bug the better. 
 
-Lots of small bugs and issues is great
+Having many small bugs and issues can be an advantage for the following reasons:
 
   - easier to code
   - easier to delegate (between developers)
@@ -12,10 +12,9 @@ Lots of small bugs and issues is great
   - easier to merge into upstream or legacy branches
   - easier to deploy
 
-It is better to put them is a specially JIRA project(s) which can be focused on Quality (or Non-functional requirements)
+It is better to put them in a special JIRA project(s) which can be focused on quality or non-functional requirements.
 
+Of course, this needs to be rational and kept in context.
+You should only create a couple of each instance/pattern, particularly when they are not being fixed. In such cases, create a 'holding ticket' that will store references to all the individual issues, which is good for systemic vulnerabilities.
 
-  * of course that this needs to be rational and kept into context
-  * you should only create a couple of each instance/pattern (specially when they are not being fixed)
-    * in this cases you create a 'holding ticket' that will store references to all the individual issues (this is good for systemic vulns)
-      * Aggregate issues in Stories
+You should also aggregate issues in Stories.
