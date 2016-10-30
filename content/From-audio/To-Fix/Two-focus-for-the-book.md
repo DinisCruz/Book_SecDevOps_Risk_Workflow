@@ -1,4 +1,4 @@
-**Two Focus For The Book**
+### Two Focus For The Book
 
 This book has two key focus, the first one is how app sec fits within the sec dev ops world. The second one is how a key to make the sec dev ops world work is a risk work flow.
 

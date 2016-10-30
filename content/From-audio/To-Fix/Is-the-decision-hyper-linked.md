@@ -1,3 +1,5 @@
+### Is The Decision Hyper Linked
+
 I hear this over and over again- the manager knows about it, I told you about this in the meeting, everybody is aware of this e.t.c. If that decision is not in a hyperlink-able location that decision doesn't exist and it is key that you capture that. Because without a very clear track of those decisions, you cannot learn from experience, you cannot learn from being able to predict what is going to happen in the future.
 
 And in a way the reason why that is important is not for the first scenario because it would always fail, it is the long game, it is the second and third situation where you want to start building the credibility to say, "we did this in the past, it didn't work here are the consequences, here is the real cost of that particular decision, let's not make this mistake again".

@@ -1,3 +1,5 @@
+### Security Champions Involved In Decisions
+
 One of the feedback you get from security champions once the program starts being placed is that they are not or they don't tend to be involved in sometimes the work flows and the decisions because a lot of teams those decisions are made outside the realm of developers so developers are very late on the food chain about those decisions.
 
 And that is a problem because in a way the job of the security champion starts to be to question, to ask, "what is this, do I trust this, what happens with this?" So a really good situation that happened recently was the security champion that basically started to do threat models across this product, and he basically managed to retroactively started to be involved in some of the decisions.

@@ -1,8 +1,8 @@
-**Feedback Loops**
+### Feedback Loops
 
 Key to dev ops is feedback loops. The most effective and powerful dev ops environment are environments where feedback loops and monitoring and visualizations are not second class citizens. And the more faster you release the more understanding you need to have on what is happening.
 
-So it is key to understand that dev ops it is not silver bullet, in fact anybody selling silver bullets, already selling snake oil. It is a profound transformation on how you build and develop software. 
+So it is key to understand that dev ops it is not silver bullet, in fact anybody selling silver bullets, already selling snake oil. It is a profound transformation on how you build and develop software.
 
 And it is all about small interactions and basically small development cycles and making sure that you never make big changes at any moment in time. So the feedback loop is very key because what you end up having is situations where you can react very quickly.
 

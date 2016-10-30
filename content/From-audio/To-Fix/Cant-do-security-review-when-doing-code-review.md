@@ -1,4 +1,4 @@
-**Can't Do Security Analysis When Doing Feature Code Review**
+### Can't Do Security Analysis when doing Code Review
 
 One lesson I have learned is that the mindset and the approach that you have and the focus that you have when doing security reviews is very different when you are doing normal feature and code analysis.
 
@@ -16,7 +16,7 @@ It also doesn't help that we still sometimes don't have very good tests which do
 
 So what you need to do is what I found is the best thing is you get at least part of a shadow of vulnerability, shadows of issues. So what you need to do is you need to have systems that can flag up when something can be a problem or something is to be reviewed and then literally have with a different mindset or even different people, or different times, actually go through the code and start to ask the questions, what are the unintended side effects? Does this match the threat model that was created?
 
-Because that is in a way the point of the threat models is also to determine what is the expected behavior, what is it expected to do. So that is ultimately what you are doing in those security reviews is you are double checking those environments. 
+Because that is in a way the point of the threat models is also to determine what is the expected behavior, what is it expected to do. So that is ultimately what you are doing in those security reviews is you are double checking those environments.
 
 And it is a different mindset, because what you are doing is you are following rabbit holes, you are asking;
 
