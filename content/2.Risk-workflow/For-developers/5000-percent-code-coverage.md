@@ -16,7 +16,7 @@ This means that you don't need 100% code coverage. Instead, you need 1000%, or 2
 
 In fact, the code coverage should ideally match the use cases, and every workflow that exists.
 
-This brings us to another interesting question. If you take all client-accepted use cases which are invoked and simulated with tests, meaning that you have matched the expected 'user contract', (everything the user expects to happen when interacting with an application) if the coverage of the application is not at 100%, what else should you look for?
+This brings us to another interesting question. If you take all client-accepted use cases which are invoked and simulated with tests, meaning that you have matched the expected 'user contract', (everything the user expects to happen when interacting with an application) if the coverage of the application is not at 100%, what else is there?
 
 Maybe the executed tests only covered the happy paths?
 
