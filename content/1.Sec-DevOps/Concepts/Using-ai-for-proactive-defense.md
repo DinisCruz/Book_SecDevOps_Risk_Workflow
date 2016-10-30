@@ -1,4 +1,4 @@
-### Using Artificial Intelligence for proactive defence
+### Using Artificial Intelligence for proactive defense
 
 We need AI to understand code and applications. Our code complexity is getting to a level that we need to start to use artificial intelligence capabilities to understand it, and to get a grasp of what is going on, so we can create secure applications that have no unintended side effects.
 
