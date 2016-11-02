@@ -4,7 +4,7 @@ If your developer team doesn't have an assigned security team champion, get one 
 
 ![](images/Security-champion-mug.jpg)
 
-That 'Security Expert' mug represents the fact that, without a securit champion, when a developer has an application security question, he might as well ask the dude on that mug for help.
+That 'Security Expert' mug represents the fact that, without a security champion, when a developer has an application security question, he might as well ask the dude on that mug for help.
 
 I also like the fact that the mug reinforces the idea that for most developer teams, **just having somebody assigned to application security is already a massive step forward!!**
 

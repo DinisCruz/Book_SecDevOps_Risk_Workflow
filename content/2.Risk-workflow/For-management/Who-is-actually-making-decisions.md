@@ -6,7 +6,7 @@ Initially, when a 'Risk Accepted' request is made, what tends to happen is that 
 
 Eventually there is a moment when a senior director (or even the CTO) resists accepting the risk and pushes it down. What he is saying at that moment in time, is that the decision to accept that particular risk, has to be made by someone else, who has been delegated (officially or implicitly) that responsibility.
 
-In some cases this can now go all the way down to the actual developer/team doing the coding. Paradoxically, usually the developer didn't realised until that moment, that he is one that is actually deciding how and when to fix it (or not).
+In some cases this can now go all the way down to the actual developer/team doing the coding. Paradoxically, usually the developer didn't realise until that moment, that he is one that is actually deciding how and when to fix it (or not).
 
 Developers often hold a huge amount of power, but they just don't know it.
 
