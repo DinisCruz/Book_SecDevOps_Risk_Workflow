@@ -8,9 +8,11 @@ The first items to consider are the issues that evolve during the development of
 
 Secondly, there are the risks that the company is willing to disclose to their customers. A mix between legal, governance, business and even marketing must decide on disclosure, because in most companies, security is still a marketing-driven exercise, as there is no regulation or requirement to disclose the truth.
 
-There is a list that the business exposes to customers, showing the risks that they have. But if clients have signed NDAs, they can't then disclose those or other issues publicly, because those issues might belong to the category of risk to be accepted by the product, or features that have dangerous implications. 
+There will be a list of security issues that the business will be willing to expose to customers, specially to clients that have signed NDAs, since those clients cannot disclose or talk about those issues publicly.
 
 If you work on the software producer's security team, you should know every risk that exists. To do so, you must go through the process of capturing, prioritizing, and understanding information, and then you must convince your business owners to accept the risk that is the flow.
+
+Another grey area of responsibility are the insecure-by-design features, that are enabled by default, or are so key to the value of the software, that most clients will enable them.
 
 This process raises a lot of interesting, ethical dilemmas.  If you have a risk that no customer will notice, and is unlikely to be attacked, and nobody will pay attention to it, do you need to fix it?
 
@@ -20,9 +22,7 @@ In fact, there is even a perverse reward system in some companies, where staff g
 
 I would argue that ignorance is no longer a valid excuse, especially if you are dealing with vulnerabilities or problems that are widely known, and have been disclosed in different places.
 
-To return to our workflow: you have identified your issues and you don't want to play the security game.
-
-If you are a client of those software packages, the situation is tricky because if the product is open-sourced, you have the code and you can do a security review.  Of course, this doesn't mean you are going to do a security review, but the option is there. 
+If you are a client of those software packages, the situation is tricky because if the product is open-sourced, you have the code and you can do a security review.  Of course, this doesn't mean you are going to do a security review, but the option is there.
 
 In most traditional products, the code is proprietary and you won't be able to access it. You are therefore dependent on the vendor for information, which is usually limited. Your only option is to pay for an independent security review, which is something I have often done.
 
