@@ -1,7 +1,7 @@
-### Horizontal Dev Ops
+### Horizontal DevOps
 
-The best model I have seen in integrating dev ops in a company has been the creation of teams that basically span multiple groups. So it is the same thing as in a way the security champions group where instead of having a very top-down approach to the deployment of the operations where you create the central teams, create the standards and create the bills and create everything, and then you basically push it down, the best model I have seen is a team where the central dev op teams will hire dev ops or train actually dev ops engineers and then allocate them to each team.
+The best model I have seen for integrating DevOps in a company is where teams are created that span multiple groups. Instead of having a top-down approach to the deployment of operations, where you create the central teams, the standards, the bills, etc., and then push it down, the central DevOps team hires or trains DevOps engineers and then allocates them to each team.
 
-So the logic would be that each team gets a couple days a week or some time from that particular dev op engineer and his job is to ultimate those practices. The job is to actually embed the dev op activities and best practices into development life cycle.
+The logic is that each team spends a certain amount of time with a DevOp engineer, who trains the teams in DevOp activities and best practices, and thereby embeds the best practices in the development life cycle.
 
-So you end up having this horizontal teams which are great because in a way they have two masters, they answer to dev ops but they also answer to the team lead and they share best practices, they collaborate. And it is a much better way to scale and also it makes the teams want to collaborate because you know again you aren't saying spend all the time doing this, you are basically saying hey here is someone who is going to help you to do this.
+The result is horizontal teams, which have several advantages. They have two masters: they answer to DevOps but they also answer to the team lead, and they share best practice. The creation of horizontal teams is a much better way to scale, and it encourages teams to collaborate. The teams know they aren't required to spend all their time working in DevOps, and they know there is someone who can help them. 

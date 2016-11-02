@@ -1,15 +1,15 @@
 ### Feedback Loops
 
-Key to dev ops is feedback loops. The most effective and powerful dev ops environment are environments where feedback loops and monitoring and visualizations are not second class citizens. And the more faster you release the more understanding you need to have on what is happening.
+The key to DevOps is feedback loops. The most effective and powerful DevOps environments are environments where feedback loops, monitoring, and visualizations are not second-class citizens. The faster you release, the more you need to understand what is happening.
 
-So it is key to understand that dev ops it is not silver bullet, in fact anybody selling silver bullets, already selling snake oil. It is a profound transformation on how you build and develop software.
+DevOps is not a silver bullet, and in fact anyone saying so is not to be trusted. DevOps are a profound transformation of how you build and develop software.
 
-And it is all about small interactions and basically small development cycles and making sure that you never make big changes at any moment in time. So the feedback loop is very key because what you end up having is situations where you can react very quickly.
+DevOps are all about small interactions, small development cycles, and making sure that you never make big changes at any given moment. The feedback loop is crucial to this because it enhances your understanding and allows you to react to situations very quickly.
 
-The only way you can react quickly is if you have programmatically codified your infrastructure, your deployment, your tests, and what you really want is automation of your understanding, the automation of your tests. And the feedback loops that you get are the ones that really make this possible.
+The only way you can react quickly is if you have programmatically codified your infrastructure, your deployment, and your tests. What you want is automation of your understanding, and of your tests. The feedback loops you get make this possible.
 
-So the success stories of dev ops, all being about the companies who have been moved from waterfall style development very top down to in a way the more agile way of doing things or even teams that were doing agile but it wasn't working very well, to actually being able to ship quickly.
+The success stories of DevOps are all about the companies who moved from waterfall style, top-down development, to a more agile way of doing things. The success of DevOps has also allowed teams that were agile but weren't working very well, to ship faster. 
 
-So I like the idea that you push as fast as you can to production, it is key to have the two pipelines as I mentioned in other place of the book where if you are codifying with specific patterns that you know, you go as fast as you can, if you are adding changes that introduce new patterns then you have to have a separate suite of tests instead of suite analysis which is different from the normal paths.
+I like the idea of pushing as fast as possible to production. It is essential to have the two pipelines I mention elsewhere in the book, where, if you codify with specific patterns that you know, you go as fast as possible. If you add changes that introduce new patterns, then you must have a separate suite of tests, instead of suite analysis, which is different from the normal paths.
 
-So it is the feedback loops that allows you to understand this, the feedback loops of understanding how you just modify your attack surface, how you just change how your application behaves, how you just change key parts of how everything works and those feedback loops are what allows you to do that.
+The feedback loops allow you to understand this. The feedback loops allow you to understand how to modify your attack surface, how to change how your application behaves, and how to change key parts of how everything works. 
