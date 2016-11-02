@@ -8,8 +8,8 @@ DevOps are all about small interactions, small development cycles, and making su
 
 The only way you can react quickly is if you have programmatically codified your infrastructure, your deployment, and your tests. What you want is automation of your understanding, and of your tests. The feedback loops you get make this possible.
 
-The success stories of DevOps are all about the companies who moved from waterfall style, top-down development, to a more agile way of doing things. The success of DevOps has also allowed teams that were agile but weren't working very well, to ship faster. 
+The success stories of DevOps are all about the companies who moved from waterfall style, top-down development, to a more agile way of doing things. The success of DevOps has also allowed teams that were agile but weren't working very well, to ship faster.
 
-I like the idea of pushing as fast as possible to production. It is essential to have the two pipelines I mention elsewhere in the book, where, if you codify with specific patterns that you know, you go as fast as possible. If you add changes that introduce new patterns, then you must have a separate suite of tests, instead of suite analysis, which is different from the normal paths.
+I like the idea of pushing as fast as possible to production. It is essential to have the two pipelines I mention elsewhere in the book, where, if you codify with specific patterns that you know, you go as fast as possible. If you add changes that introduce new patterns or change the attack surface, you must have a separate pipeline that triggers manual or automated reviews.
 
-The feedback loops allow you to understand this. The feedback loops allow you to understand how to modify your attack surface, how to change how your application behaves, and how to change key parts of how everything works. 
+The feedback loops allow you to understand this. The feedback loops allow you to understand how to modify your attack surface, how to change how your application behaves, and how to change key parts of how everything works.
