@@ -6,7 +6,7 @@ The following are the key concepts of this workflow:
 
   * All tests should pass all the time
   * Tests that check or confirm vulnerabilities should also pass
-  * Business owners must understand the risks of their decisions, and they must click on the ‘accept risk' button
+  * Business owners must understand the risks of their decisions, and they must click on the 'accept risk' button
  
 This workflow is about empowerment and assigning responsibility; it is not about apportioning blame.
 
