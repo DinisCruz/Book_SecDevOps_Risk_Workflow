@@ -1,21 +1,21 @@
-### Learning-resources.md
+### Learning-resources
 
 
 **Books to learn from**
 
- Hacking Exposed, both the normal version and the Hacking Exposed: Web Applications.
+ * Hacking Exposed, both the normal version and Hacking Exposed: Web Applications.
 
-The Shellcoder’s Handbook is also a great book from an application security point of view, and they will basically walk you through the vulnerabilities.
+ * The Shellcoder’s Handbook is a great book from an application security point of view, and it walks you through the vulnerabilities.
 
-The Web Application Hackers Handbook provides a good and solid overview of problems in web applications and how to identify them
+ * The Web Application Hackers Handbook provides a solid overview of problems in web applications and how to identify them
 
-The OWASP testing guide is also a good resource to start you AppSec skills.
+ * The OWASP testing guide is also a good resource to start you AppSec skills.
 
 * add more books (with a small description each)
 
 **Vulnerable by design applications**
 
-Another great resource is the OWASP WebGoat Project which actually just released a new version, and it has a whole bunch of exercises in vulnerabilities so that you can learn how they work and they give you clues for if you get stuck. The first thing is to actually do those exercises and essentially hack into these applications.
+Another great resource is the OWASP WebGoat Project which just released a new version, and it has a selection of exercises in vulnerabilities so you can learn how they work and you can get clues if you get stuck. The first thing is to do the exercises and hack into these applications.
 
 * Add more examples of apps, split by technology
   * .Net - WebGoat.Net, HackmeBank
