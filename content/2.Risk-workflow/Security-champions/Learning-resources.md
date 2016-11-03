@@ -9,9 +9,32 @@
 
  * The Web Application Hackers Handbook provides a solid overview of problems in web applications and how to identify them
 
- * The OWASP testing guide is also a good resource to start you AppSec skills.
 
-* add more books (with a small description each)
+* (todo: add more books with a small description each)
+  * Kevin Kelly books
+  * The Circle
+  * The Phoenix Project
+  * Improving Web Application Security and Secure Code (from MS)
+  * Geekonomics
+  * Cathedral and the bazaar
+
+(todo: add links to Amazon)
+
+**OWASP Materials**
+
+* [Cheat Sheet series](https://www.owasp.org/index.php/Cheat_Sheets) - one of the best AppSec resources on the internet
+* Testing guide - good resource to start you AppSec skills.
+* SAMM (Software Assurance Maturity Model)
+* Developers Guide
+* Code Review guide
+* Top 10
+* Top 10 for Mobile
+* [Top 10 Proactive Controls](https://www.owasp.org/index.php/OWASP_Proactive_Controls)
+* ASVS (Application Security Verification Standard)
+* AppSensor guide
+* [Automated Threats Handbook](https://www.owasp.org/index.php/OWASP_Automated_Threats_to_Web_Applications)
+
+(todo: add links to projects)
 
 **Vulnerable by design applications**
 
@@ -38,4 +61,4 @@ Go for your own application, or go for your colleague’s application. Sometimes
 
 Also go for things like bug bounties, which are basically companies that give you permission to hack them and find security issues.
 
-* mention programs like https://hackerone.com/
+(todo: mention existing programs like https://hackerone.com/)
