@@ -1,24 +1,25 @@
 ### Make sure your Security Champions are given time
 
-It is very important that security champions are given the time, the focus, the mandate and the information required to do their jobs.
+It is very important that security champions get the time, the space, the mandate, and the information required to do their jobs.
 
-The good news is that now that you have security champions (at least one per team), their work will allow you to see the difference between the multiple teams and the parts of a company who are able to make it work, and those who are struggling make it happen.
+The good news is, now that you have security champions (at least one per team), their work will allow you to see the differences between the teams and the parts of the company who can make it work, and those who struggle to make it happen.
 
-The key activity of the security champions is to participate in the security of his project:
-* review code,
-* fixing code,
-* writing tests,
-* knowing what is going on,
-* maintaining the JIRA tickets,
-* creating Threat Models,
-* basically being involved in the security practices of the teams.
+To participate successfully in the security of their projects, security champions must execute the following tasks:
 
-This ultimately leads to better code, better project briefs, up-to-date documentation and tests for the application
+* review code
+* fix code
+* write tests
+* know what is going on
+* maintain the JIRA tickets
+* create Threat Models
+* be involved in the security practices of the teams
 
-Security champions should be able to spend at least one day a week on those activities which, although easy for management to accept, are in fact much harder to put into practice.
+Adherence to these tasks leads to better code, better project briefs, up-to-date documentation and tests for the application.
 
-In the beginning, Security Champions will barely be able to spend a couple hours a week.
+Security champions should spend at least one day a week on these activities. Although allocating this time is easy for management to accept in theory, it is much harder to put into practice.
 
-One of the things you want to make sure you look at from a central point of view is exactly who is doing this kind of work, and who is actually able to spend the time doing it.
+In the beginning, security champions will barely be able to spend a couple of hours a week at this work.
 
-The good news is these things can be measured and tracked from the point of view of all the teams (using dashboards and graphs from the JIRA Risk Project).
+One of the things you should know from a central point of view is who is doing this kind of work, and who can spend the time doing it.
+
+Fortunately, these things can be measured and tracked from the point of view of all the teams (using dashboards and graphs from the JIRA Risk Project).
