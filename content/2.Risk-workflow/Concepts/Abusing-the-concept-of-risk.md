@@ -24,4 +24,4 @@ What usually happens is that initially, Path A might look easier and faster than
 
 It is important to have these discussions before any code is written and while there is still the opportunity to propose changes. I've been involved in many projects where the security/risk review only occurs before the project goes live, which means there is zero opportunity to make any significant architectural changes.
 
-Release Management (RM) should be the gating factor. RM should establish quality gates based on business and security team minimum bar. (no P-0 security bugs, possibly no P-1 if publicly facing, etc.).
+Release Management (RM) should be the gating factor. RM should establish quality gates based on business and security team minimum bar.
