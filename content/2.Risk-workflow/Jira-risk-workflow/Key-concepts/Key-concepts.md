@@ -1,4 +1,4 @@
-## Key concepts
+### Key concepts
 
 ![](images/Screen Shot 2016-03-02 at 16.32.58.png)
 
