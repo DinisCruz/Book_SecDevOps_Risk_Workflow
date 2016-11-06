@@ -1,4 +1,4 @@
-### The Cache Incident
+### The Authentication micro-service cache incident
 
 A good example of why we need tests across the board, not just normal unit tests, but integration tests, and tests that are spawned as wide as possible, is the story of a authentication module that was developed as an re-factoring into a separate micro-service.
 
