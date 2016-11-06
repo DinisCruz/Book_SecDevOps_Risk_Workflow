@@ -1,6 +1,6 @@
-### Why GitHub and JIRA? 
+## Why GitHub and JIRA? 
 
-My current experience is that only GitHub and JIRA have the workflows and the speed that allow these risk workflows to be used properly in the real world. 
+My current experience is that only GitHub and JIRA have the workflows and the speed that allow these risk workflows to be used properly in the real world.
 
 I know there are other tools available that try to map this and create some UIs for risk workflows, but I believe that you need something very close to the way developers work. GitHub and JIRA meet this essential requirement, as they are both connected to the source code.  
 

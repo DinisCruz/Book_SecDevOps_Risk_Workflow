@@ -1,4 +1,4 @@
-### This Book has a Dual Focus
+## This Book has a Dual Focus
 
 This book has a dual focus.  First, it looks at how application security (AppSec) fits within the security, development and operations (SecDevOps) world. Secondly, the book demonstrates how a risk workflow is the key to making the SecDevOps world work.
 
