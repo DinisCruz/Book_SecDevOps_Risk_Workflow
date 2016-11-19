@@ -1,0 +1,22 @@
+
+A big lesson I have learned in my consulting days is that every time you present evidence of a security issue or a vulnerability, you have to have highly defensible findings.
+
+So I always use the same thinking I am in a business of producing highly defensible findings that is in the business of producing data and information that is completely beyond doubt truth.  
+
+And it is very important because if you presents a report especially if you present in adversarial situations where you basically have a team on the other side that really doesn't want to hear your findings or is going to dispute every single line of it, everything has to be true.
+
+You can present some great findings but if finding number 17 has some exaggerations and some way off the top analysis then that is exactly what they are going to focus on. And in a way your whole credibility goes down the drain.
+
+So you have to make sure that you have a very pragmatic and objective approach and I think risk, it is very important to have that objectivity or else you lose your credibility. You have to make sure that the statements that you have makes sense from a business point of view, you can't set the house is on fire when it really isn't on fire. You can't say this is a high critical vulnerability when at the end of the day the compromise is a pain but it isn't going to bring the business down, it isn't really going to have a lot of problems.
+
+And in security you do have that, in security you do have vulnerabilities that will bring the business down, data compromises, data confidentiality issues, data integrity issues that will really bring the business down. So you have to put into perspective of actually what the problem is and what you present.
+
+And that is why when I go back to the risk analysis and the risk view parts, you really want a situation where everything you present is highly defensible and you have evidence that is basically you are on evidence base roll it doesn't matter who you are talking to, you can be talking to a developer, you are talking to a business owner, you are talking to the board, everything you do, everything you say has to be evidence based.
+
+And in fact one of the things I found very interesting is I find that from a security and risk analysis I am actually able to have very strong opinions or very strong statements about architectural and design issues. But I don't have a formed opinion for this, it isn't like I like this, I like that, I like this infrastructure, I like that thing, I basically use it from my point of view, here are the side effects, here are a couple threat models on features look at difference between A and B, you can go with the architecture that is fine but here are the side effects, here is what we are going to do. If you go with this architecture look there is much simpler, there is less things to do, less difficult situations, certainly you don't have to care about X, Y, Z, certainly security can be visible and most of the time you don't care about it which is exactly what you want to do.
+
+So, I have found out everything you do has to have findings, everything you do has to basically have situation where you can actually prove what you mean and you can defend it and it has evidence and that is why everything has to be hyper linked because when you hyper link you build a body of evidence. You don't just say well this is an issue or this will be an issue you then need to provide evidence why that is an issue and why actually this will be a problem.
+
+And this is also why having a big list of issues and a big already documented set of risks usually when you get into kind of 500 plus, it is nice because you start to have a history, you start to have this historical evidence that you can use to say look these guys had the same problem in the past, here are the patterns that we are following. Although I am not able to prove why X, Y, Z is a problem today, this A, B, C issue had the same thing and eventually blew up. So if you are going to accept risks just be aware that the last time this happened it didn't end that well.
+
+And again you know that is a very passive aggressive kind of way of dealing with a problem you aren't saying don't do it, you are just saying hey dude, it is a dangerous road ahead, you might want to think twice about what you are doing. They can still do it but this is also where you can elevate the issue and make it a higher decision to that business owner we should focus on that particular delivery and focus on that particular requirement.
