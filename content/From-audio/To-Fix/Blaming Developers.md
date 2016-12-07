@@ -1,21 +1,19 @@
-A very common and dangerous misconception in the security world is that security vulnerabilities even security mistakes are the responsibility of developers.
+### Don't blame the developers
 
-Yes, ultimately the developers are the ones who wrote the code but it is key to understand the ecosystem and the environment led to that code creation.
+A very common and dangerous misconception in the security world is that developers are responsible for any security vulnerabilities, or even security mistakes. 
 
-Most developers don't control their schedule, don't control their learning, don't control what they do, don't control how much time they get given to visualize and understand what they are actually doing.
+The developers wrote the code, but it is essential to understand the ecosystem and the environment that produced that code.
 
-So to make them responsible for actually the code they are writing is actually very dangerous, shot sight analysis. 
+Most developers don't control their schedule, their learning, or how much time they get to visualize and understand what they do. Therefore, to make them responsible for the code they are writing is a very dangerous and short-sighted analysis of their role. 
 
-The key influences in the code that is written is actually the development and the business manager, and business owner the entity or she or he is the entity actually controls what gets done and also is responsible for what gets created.
+The key influencers of code are the development and the business managers, and the business owner, who controls what gets done and is responsible for what gets created.
 
-The other big challenge is that the current development frameworks and IDE's don't reward the visualization and understanding of the side effect of code. 
+The other challenge is that the current development frameworks and IDEs (Integrated Development Environments) don't reward the visualization and understanding of the side effects of code. 
 
-Which means that when you are programming, it is very hard to really understand the side effects of the particular change or adding a particular feature or making a particular implementation.
+This means that when you are programming, it is very hard to understand the side effects of changing or adding a feature, or making a particular kind of implementation.
 
-This means that how can we expect developers to really be accountable and responsible for those code changes when they aren't aware of really what is going on?
+In such circumstances, how can we expect developers to be accountable and responsible for those code changes when they aren't aware of the bigger picture?
 
-And yes there might be a couple of cases where the developers should have known better but in my experience, those are very, very rare. My experience is that developers want to do the right thing but they aren't given the tools and even the allocation to do it.
+There might be some cases where the developers should know better, but in my experience, those cases are very rare. My experience is that developers want to do the right thing but they don't get the tools or even the allocation to do so.
 
-Which basically means that we really need to look at the whole ecosystem before we appoint the blame to the developers.
-
-The other thing is that it creates a very negative dynamic between security people and developers because it is already a very adversarial and blame culture where what we really need to do is to understand the ecosystem and look at the reward system and look at the work flow which is a much more positive way of looking at things.
+Blaming developers creates a negative dynamic between security people and developers in an already adversarial blame culture. What we need to do before blaming the developers, is understand the ecosystem, and look at the reward system and the workflow. This is a much more positive way of looking at things.
