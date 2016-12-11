@@ -1,11 +1,13 @@
-Following up from the 'everything is code concept' what you really want is this environment where your IT infrastructure is disposable, i.e. is very easy to rebuild, is very easy to recreate, it is amazing like even just a developer environment, how long do you usually take to create and what happens if those companies import more developers and expand that becomes a big problem.
+### Disposable IT infrastructure
 
-But it is also a big issue from a security point of view because it means that the developers and even normal IT users have a lot of black magic on there. And if there is any for example Malware or malicious code installed in application, then it means that it is in there for that period of time.
+Following the 'everything is code' concept, what you really want is an environment where your IT infrastructure is disposable. By this I mean that it should be very easy to rebuild, or recreate.  Consider the developer's environment, and how long it takes to create infrastructure. Then consider what happens to that infrastructure if the company imports more developers or expands. Your infrastructure might now cause you problems.
 
-So what you really want is a situation where most of your infrastructure is actually rebuilt automatically, you want environments where developers laptop have to reboot every Monday where you overhaul the infrastructure from the bottom up, where business owners use chrome books that every install is totally fresh. 
+This is also an issue from a security point of view because it means that the developers, and even normal IT users, have a lot of black magic in their infrastructure. And if there is any Malware or malicious code installed in an application, then it means that it is in there for a certain period of time.
 
-In a way I really love actually is to have like a git base operating system where I can actually use version control even at the operating system level where basically we can totally control and manage what is going on using branches and that kind of technology.
+So, what you want is a situation where most of your infrastructure is automatically rebuilt. You want environments where developers' laptops reboot every Monday, where you overhaul the infrastructure from the bottom up, and where business owners use Chromebooks so that every install is fresh. 
 
-So the idea of all this is that your infrastructure should be disposable, you shouldn't care about it, you should easily rebuild, delete, destroy because that means that all your data is backed up, all your data is safe.
+A Git-based operating system, where we can use version control, even at the operating system level, is a great system to have. It allows us full control of what is going on, by using branches and that kind of technology.
 
-And it also promotes the idea that although you in some circumstances might be able to access all the data, and all the assets, you shouldn't be able to have all the assets all the time which is actually a very crazy idea from a developer point of view, and it also prevents the understanding of abuses.
+Your infrastructure should be disposable, you shouldn't care about it, and you should be able to easily rebuild, delete, or destroy, because that means all your data is backed up, and all your data is safe.
+
+It also promotes the idea that although you might be able to access all the data, and all the assets, in some circumstances, you shouldn't be able to access all the assets all the time. This is a crazy idea from a developer's point of view, and it prevents the understanding of abuses.
