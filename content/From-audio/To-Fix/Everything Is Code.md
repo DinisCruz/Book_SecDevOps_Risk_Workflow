@@ -1,7 +1,9 @@
-One of the things that is actually critical to understand is that everything that goes on in the organization, [inaudible 00:00:13] to source code to anything that actually impacts an application from its development all the way to its deployment, and in fact all retirement is code.
+### Everything is code
 
-Which basically means a corp's requirements of the dev's work flow is tied to the concept of disposable infrastructure where you will be able to rebuild everything from scratch, from scripts, from repos which contain everything.
+It is critical to understand that everything that happens in an organization, from the development, to the deployment, to the retirement of an app, is code. 
 
-Because since everything is code, everything has to be version control, everything has to be managed, everything needs to be stored in a git repository because then you control everything that is going on with the branches and with the ability of capturing all those configurations, all those settings, all those mappings that is actually fundamental.
+This means a corp's requirements of the developer's workflow is tied to the concept of disposable infrastructure, where you rebuild everything from scratch, from scripts or from repos, as these contain everything.
 
-So, this is a big change because there is a lot that happens in the organization still that is put in kind of a ephemeral environment where they aren't documented, it is in somebody's head, it is in script so that isn't good enough especially these days also with the movement to use [inaudible 00:01:45] it is important that all of that is actually really managed.
+Since everything is code, you should version control, manage, and store everything in a Git repository, which will allow you to control everything that happens on the branches. The Git repo also captures all the configurations, settings, and mappings, and this level of oversight is essential.
+
+This is a big change, because a lot of what happens in any organization is not documented, but instead is stored in somebody's head, or in a script, and this is not good enough. Especially these days, with the movement to use [inaudible 00:01:45] it is important that all this information is captured and managed efficiently.
