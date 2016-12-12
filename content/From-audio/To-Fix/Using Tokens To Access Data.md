@@ -1,13 +1,13 @@
-The problem with users having all access all the time. One legacy that we still have from our days of running everything with admin and everything with a couple of users is this lack of segmentation of user access and especially user data access and in this case it can be a database access from a real application is what we really want is a situation where whenever somebody needs a particular asset, needs a particular resource, they ask for it and then they get unit token which are given use to access the resource.
+### Using tokens to access data
 
-The power of this is not only it enforces some of those access more explicit, it allows you place to control abuses.
+There is a problem with users having complete access all the time. One legacy we still have from our days of running everything with admin and a couple of users is the lack of segmentation of user access, especially user access to data, or to a database from a real application. What we want is a situation where whenever someone needs an asset or resource, they make a request and they receive unit tokens to access the specific resource.
 
-So at the moment, the reason why there are sometimes so many data leaks and data dump is because it is possible for an application to dump all the data in one go or to just keep asking for it and nobody will probably notice it.
+The power of this is it not only enforces some of the more explicit accesses, it also allows you to control and limit abuses.
 
-Where if that particular application or user had to generate tones or hundreds of tones or millions of tokens to access that that will be easy to monitor.
+At the moment, the reason for so many data leaks and data dumps is because it is possible for an application to dump all the data in one go, or to just keep asking for the data without anyone noticing. It is too difficult to visualize or understand what is going on at the edges if there is too much in the way. 
 
-Because this is key, you cannot generate good visualization or good understanding of what is going on at the edges because there is too much there that is not easy.
+Whereas if that application or user had to generate huge quantities of tokens to access that data, it would be easy to monitor.
 
-What you can do is to visualize the patterns in a way the web services call the sequence of events or specific things which then will allow you to much better understand what is going on.
+Visualizing the patterns in a way the web services call 'the sequence of events' allows you to better understand what is going on.
 
-So if we did that for assets and accessing assets, we would be in a much better situation to understand when abuses occur.
+If we did that for assets and accessing assets, we would understand better, and faster, when abuses occur.
