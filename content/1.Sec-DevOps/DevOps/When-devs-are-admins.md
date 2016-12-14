@@ -1,5 +1,5 @@
-### When devs are cloud admins
+### When devs become cloud administrators
 
-* When moving to the cloud, Devs are becoming SysAdmins
-  * which is a massive issue and is creating a large number of security issues
-* in some cases this move is literally _'throwing the baby with the bath water'_ where lack of innovation, speed and features from the local admin/IT teams, pushed the developers to have free reign in the cloud (like AWS) where they can create servers and VMs in seconds (vs days, weeks or months)
+When moving to the cloud, devs often become System Administrators. This is a problem, and it creates many security issues. 
+
+In some cases, this move is nothing more than _'throwing the baby out with the bath water'_ ,where a lack of innovation, speed, and features from the local admin or IT teams push the developers to have free reign in the cloud (like AWS), where they can create servers and VMs in seconds as opposed to days, weeks or months. 
