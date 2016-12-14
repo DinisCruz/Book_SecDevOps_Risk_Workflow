@@ -1,10 +1,10 @@
 ### Creating Abuse Cases
 
-Developer teams tend to focus on the 'Happy Paths', where everything works out exactly as expected. However, in agile environments, creating evil user stories linked to a user story can be a powerful technique to convey higher level threats.
+Developer teams tend to focus on the 'Happy Paths', where everything works out exactly as expected. However, in agile environments, creating 'evil' user stories linked to a user story can be a powerful technique to convey higher level threats and mitigations.
 
 **Evil user stories (Abuse cases)**
 
-Evil user stories have a dependency with threat modeling and can be an effective way of translating higher level threats and mitigations. They can be imagined as a kind of malicious Murphy's law [^Murphy-law].
+Evil user stories have a dependency with threat modeling.. They can be imagined as a kind of malicious Murphy's law [^Murphy-law].
 
 Take for example a login flow. After doing a threat model on this flow one should have identified the following information:
 
@@ -23,7 +23,7 @@ With this information, the following threats can be constructed:
   * unregistered users brute-forcing passwords
   * registered users accessing other users' information
 
-At the same time the team has constructed the following user stories that should be implemented:
+At the same time the team has constructed the following user story that should be implemented:
   * _"as a registered user I want to be able to login with my credentials so I can access my information"_
 
 Combined with the outcome of the threat model, the following evil user stories can be constructed:
