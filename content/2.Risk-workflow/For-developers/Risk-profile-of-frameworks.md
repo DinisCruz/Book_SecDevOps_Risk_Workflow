@@ -15,9 +15,4 @@ This means that when using the 'secure defaults' of these frameworks, there will
 
 This can backfire when Frameworks perform complex and dangerous operations 'automagically'. In those cases it is common for the developers to not really understand what is going on under the hood, and high risk vulnerabilities will be created (sometimes even using the code based on the Framework's own code samples)
 
-  * Add case-studies on issues created by 'normal' framework usage:
-    * SpringMVC Auto-Binding (also called over-posting)
-    * Razor controls vulnerable to XSS on un-expected locations (like label)
-    * Ember SafeHtml
-    * OpenAM SQL Query Injection on code sample (and see in live app)
-    * Android query SQL Injection (on some parameters)
+
