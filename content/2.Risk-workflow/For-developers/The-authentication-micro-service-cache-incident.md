@@ -10,8 +10,6 @@ But the worst-case example occurred when a proxy was used in one of the systems,
 
 This illustrates the kind of resilience you want these authentication systems to have. You want a situation where, when you connect to a web service, you don't just get, for example, a 200 which means okay, you should get the equivalent of an cross-site-request-forgery token. Ideally you would get an transaction token in the response received, i.e. _"authentication is ok for this XYZ transaction, this user and here is an user object with user details"_.
 
-_(todo: add example of 2fA exploit using Url Injection)_
-
 When you make a call to a web service and ask for a decision, and the only response you get is yes or no, this is quite dangerous. You should get a lot more information.
 
 The fundamental problem here is the lack of proper end-to-end testing. It is a QA and development problem. It is the fact that in this environment you cannot spin off the multiple components. If you want to test the end-to-end user log in a journey, you should be able to spin off every single system that uses that functionality at any given time (which is what DevOps should also be providing).
