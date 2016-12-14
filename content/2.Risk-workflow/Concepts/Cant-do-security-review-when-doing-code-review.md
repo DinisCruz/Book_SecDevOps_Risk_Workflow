@@ -25,6 +25,6 @@ b] what happens from here?
 c] who consumes this?
 d] how much do I trust this?
 
-You ask the STRIDE questions, where you go through proofing, tampering, information disclosure, repudiation, denial of service, and you ask those questions across the multiple layers, and across multiple components. The better the test environment, and the better the technology you have to support you, the easier this task becomes.  Of course, it becomes harder, if not impossible, when you don't have a good test environment, or good technology, because you don't have enough visibility.
+You ask the STRIDE questions, where you go through sproofing, tampering, information disclosure, repudiation, denial of service, and you ask those questions across the multiple layers, and across multiple components. The better the test environment, and the better the technology you have to support you, the easier this task becomes.  Of course, it becomes harder, if not impossible, when you don't have a good test environment, or good technology, because you don't have enough visibility.
 
 Ideally, the static analysis should significantly help the execution of a security analysis task. The problem is, they still don't expose a lot of the internal models and they don't view themselves as tools to help with this analysis. This is crazy when you think about their assets.
