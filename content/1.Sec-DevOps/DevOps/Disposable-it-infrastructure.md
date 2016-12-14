@@ -8,6 +8,6 @@ So, what you want is a situation where most of your infrastructure is automatica
 
 Your infrastructure should be disposable, you shouldn't care about it, and you should be able to easily rebuild, delete, or destroy, because that means all your data is backed up, and all your data is safe.
 
-It also promotes the idea that in most scenarios, you shouldn't be able to access all the data or assets that your current user role has access to (i.e. you should only have access to that you need to do the job at hand).
+It also promotes the idea that in most scenarios, you shouldn't be able to access all the data or assets that your current user role has access to (i.e. you should only have access to what you need to do the job at hand).
 
-It would be great if we had a Git-based operating system, with native support for version control, even at the operating system level. This would provide full control of what is going on and what is changed (on install and over time), by using git diffs and branches.
+It would be great if we had a Git-based operating system, with native support for version control, even at the operating system level. This would provide full control of what is going on and what is changed (on install and over time), by using Git diffs and branches.
