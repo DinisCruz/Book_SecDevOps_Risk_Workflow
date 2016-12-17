@@ -1,0 +1,1 @@
+And again if you are a developer today and you aren't thinking in terms of CI automation everything is code, 100% code coverage, graphs, containers, version control, AI, cloud etc. You are already writing legacy code, you would like to slack off the other project over there because the legacy gets what, if you aren't doing this, you are a legacy in your own world.
