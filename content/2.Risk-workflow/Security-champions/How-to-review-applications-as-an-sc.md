@@ -6,4 +6,4 @@ You should start thinking about data inputs, about everything that goes into the
 
 Authorization is also a great way to look at the application. Just looking at how you handle data, and how you authorize things, is a great way to understand how the application works.
 
-* add info about how this is best done using Threat Models and asking the STRIDE questions
+
