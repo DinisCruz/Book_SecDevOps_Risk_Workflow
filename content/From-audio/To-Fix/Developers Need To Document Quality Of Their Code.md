@@ -1,21 +1,28 @@
-Very often developers will slag off and complain about their code and be really offensive about its quality and the fact that sometimes they don't get enough time or much of that to understand the quality of those problems.
+### Developers should document the quality of their code
 
-This is very natural because they are the ones who pay the technical debt for it and they suffer with lack of understanding.
+Developers will often belittle and complain about their code, and dismiss its quality and the fact that sometimes they don't get enough time to understand the detail of problems.
 
-The problem is that you need evidence, you need to have hundreds and hundreds of tickets either on a risk register because ultimately those things have security implications or on their own way where that is proven.
+This is normal, because the developers pay the technical debt for any problems with their code, and they suffer for any lack of understanding.
 
-Because it is only by looking at the type of tickets and what is in there that you get a sense for the problem. So if those tickets are for very small little things then clear that is okay.
+The problem is that you need evidence; you must have hundreds and hundreds of tickets either on a risk register, because those things have security implications, or on their own, where you can demonstrate the security implications. 
 
-But if those things are major problems, I don't understand this method, or the application has this side effects, or the application crashed you don't know why or tests are really hard to maintain or I spent five hours fixing a test when I make a code change or I spent hours and hours understanding the root cause of the application and new developers join in and they aren't able to write production code within weeks or months.
+Because it is only by looking at the type of tickets and what they contain that you get a real sense of the problem. So, if the tickets are for very small things then it is clear that the problems are not too serious.
 
-Those are problems and that needs to be acknowledged and methods that are very large you know all sorts of problems, all of these needs to be acknowledged. And it is only then that you could say something about the quality of the code.
+But if the tickets indicate major problems, these need to be acknowledged. The problems could include any of the following examples:
 
-Now the good news of this is that the developers can do this, in fact the security guys can help the developers do this. Because all you are doing is describing reality, especially when you inherit a new system, you know if people don't understand the side effects of it, document a way, capture everything because there is nothing stopping you from doing that.
+ * I don't understand this method, 
+ * The application has this side effect
+ * The application crashed you but don't know why
+ * Tests are difficult to maintain,
+ * I spent five hours fixing a test when I made a code change
+ * I spent hours understanding the root cause of the application but new developers joined and they can't write production code for weeks, or months.
 
-And more importantly, those 200, 300 issues are basically the road map for fixing it. So when you say I want to fix X, you need to basically provide that list of things to do that is what your road map is. And the more you do it, the more things you create eventually you will just state flags and then you start to fix a lot of issues.
+Only when the problems are acknowledged should you say something about the quality of the code.
 
-And then the amount of time that it takes you to fix those issues is a good metric.
+The good news is that the developers can do this, and the security team can help the developers do this.  You are describing reality. When you inherit a new system, and people don't understand its side effects, then capture everything, because those 200 or 300 issues are the road map that will help you fix the problems. 
+ 
+When you say *"I want to fix X"*, you should provide that list of issues. The more tickets you create, the more help you will have when you start to fix the issues. The amount of time it takes you to fix those issues is a good metric.
 
-So that is why sometimes the smaller the ticket, the smaller the change the better. Because ultimately a big change is made of small little changes. 
+So, that is why, sometimes, the smaller the ticket, or the smaller the change, the better. Ultimately a big change is made of many small changes. 
 
-So it is better to push lots and lots of small little changes than bigger changes. And that means that every change you have to do has to be documented in the ticket, and those tickets have to exist before you do the work. 
+It is better to push many small changes than a few bigger changes. And that means that every change you do must be documented in the ticket, and those tickets must exist before you do the work. 
