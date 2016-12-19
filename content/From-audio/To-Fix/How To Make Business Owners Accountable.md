@@ -1,9 +1,9 @@
-The solution is to make them click on that accept to be supported. What is important to understand is that that isn't the moment that they will accept the risk that is the moment where they will actually read it. 
+### How to make business owners accountable 
 
-So that is very interesting long term gain that you play where it is all about changing the culture, it is all about finding ways to create a positive work flow.
+To make business owners accountable, make them click on 'accept'. This isn't the moment that they will accept the risk; rather it is the moment where they will read the risk. 
 
-So, sometimes you have to be aggressive, sometimes you have to be harsh and make teams accountable, because remember this game has already been played the question is whether you control instruments over the rules of the game or not.
+This exercise has long term gains; it contributes towards changing the culture and finding ways to create a positive workflow.
 
-And the thing to understand is that most people will only actually read it, and only actually pay attention the moment they have to be accountable. 
+Sometimes you should be aggressive, and sometimes you should be harsh and make teams accountable. Remember, this game has already been played; the question is whether you control the rules of the game.
 
-So take that into account, don't be frustrated when you have had [inaudible 00:01:13] about a topic and then only at that moment they actually realize what you are saying, realize that everybody is very busy, everybody has parts of stuff to do so actually the fact they aren't paying attention isn't really bad than what you were before.
+The thing to understand is that most people will only read the risk, and pay attention, when they realize they are accountable. Don't be frustrated if this happens to you, if you think you have discussed a topic and explained the risks, but then discover that no one was listening to you.  This situation is no worse than where you were before you made them realize their level of accountability.
