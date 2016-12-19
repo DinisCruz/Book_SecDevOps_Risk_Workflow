@@ -1,0 +1,1 @@
+And also if you are doing Java script, and you aren't using Wallaby JS, and you don't have real time code coverage, you are living in the dark ages. And you can't code TDD until you have those things.
