@@ -1,33 +1,31 @@
-A model that I believe has a lot of potential and a lot of opportunities is the idea of creating workshops and creating sessions, even training sessions with very respected and knowledgeable security experts.
+### A business model for training workshops
 
-So the idea is that you need or companies need an injection of talent, of knowledge to make sure that they are going in the right direction, to make sure that they basically are implementing these correctly, and sometimes just to give them the confidence or even tell management that that is the way to go.
+Workshops and training sessions with respected and knowledgeable security experts have a lot of potential as a training model.
 
-So, the question is how do you scale this? Because the guys who can do this stuff are very expensive, or they won't be able to join the teams.
+The idea is that if companies need an injection of talent or knowledge to make sure that they are going in the right direction, or to have the confidence to tell management what direction it should take, a training session with a security expert can provide that knowledge and reassurance.
 
-So, one interesting solution is to be able to bring those expert persons or it could be an expert in cryptography, an expert in SSL, an expert in spring security, an expert in more generic application security stuff, threat modeling, Geo work flows whatever and you basically bring that person that has the experience into the organization for an hour or a couple of sessions or ideally a couple of days or maybe a couple of days over a period of time, couple of weeks or months.
+However, how do you scale this? Because the experts are very expensive, and very busy; they may not be available to join a company team as an employee. 
 
-Now, the way that this works is basically the individuals don't have the time and the ability to actually be managing and finding the contacts and do all these things. So, it is very unlikely that the talent can actually find the person, so there is definitely a market problem here.
+Whether their expertise lies in cryptography, SSL, spring security, or in more generic application security fields, such as threat modeling or Geo workflows; you then bring that expert into the organization for anything from an hour to a couple of days, possibly spread over weeks or months. 
 
-An interesting solution is to have companies who basically behave like agents for these individuals. And basically what they do is they find the work or they follow up work and then they book the work, they book the travel, they book the timing, they find all that stuff, they act as in-between because there is a lot of work there, it takes a lot of time, it is actually not that trivial to do all that stuff. 
+The experts will not have the time to manage or even find this kind of work, so special agencies should be created to manage this work.  The agents will find and book the training sessions, and they will follow up on any other logistical arrangements. They act as a go-between, because there is a lot of work involved in these kinds of arrangements.  
 
-So, actually there is a lot of value that exists there, that also shields a little bit those professionals who are super busy from those things, remove some conflict of interests and then there is an interesting model which is the agent model because in a way those AppSec, InfoSec persons are the talent that in a way is sold or managed by these companies.
+The agencies will shield the professionals from the logistical side of things, so they can get on and do their security work. In effect, the agent model manages and sells the talent, i.e. the InfoSec and AppSec experts. 
 
-Now the key question is what is the financial model? Because it has to be fair for both, it has to be one where there isn't a bigger symmetry between what the person ultimately creating the value stands with the knowledge gains and all the work that the guy selling it and managing it and doing the financing and all that jazz too.
+The key question is: what is the financial model? It must be fair to both the expert who creates the value and provides the training, and the agent who markets, sells, and manages that talent.  
 
-So one interesting option is maybe fifty-fifty split where fifty percent goes to the presenter and fifty percent goes to the company organizing it which is kind of similar to what happens in some situations, maybe the sixty-forty for the presenter but again we want to make sure it is also incentivized for the sales guys because they also spend a lot of time selling to a lot of people who won't buy the thing. So I kind of come back to the fifty-fifty as probably a fair amount, a fair value.
+One option is an even split, where 50% goes to the presenter and 50% goes to the agency, which is similar to what happens in other situations. If it was a 64%/36% split, with 64% going to the presenter, we would need to be sure that is enough of an incentive for the agent, because they would spend a lot of time selling to people who won't buy the service. So, I come back to the 50/50 as a fair amount, and a fair division of the fee.
 
-And also I think it is also something that it needs to be total transparency between all parties. So that takes the trust and also creates this bonding relationship where it becomes much harder or where somebody contacts directly the supplier or the talent and the talent deals with the person directly.
+There needs to be total transparency between all parties. That will require trust, and it also creates a bonding relationship where it becomes harder for the expert to deal with a company or an individual directly, and exclude the agent from some contracts.  
 
-And I think it is important to create something that it isn't as asymmetric where if it was like 25% for the trainer, then the person might go or the resource might go, "well actually I might go directly or it is okay to go directly."
+It is important to create something that isn't too asymmetric, where if, for example, 25% went to the expert, then that person might decide to approach companies directly. 
 
-So that is the first kind of model that I think could work quite well but also it is important that the concept and the paradigm is really of agents. So that means that the website should really be selling, the entity should be selling that person and exposing that person down to the user.
+That is the first kind of model that I think could work quite well, but it is important that the concept and the paradigm is really about the agents. The agency's website should really advertise and sell the talent to the user. 
 
-And actually you know maybe for some more high profile persons there the value is higher because they can generate high fees and they can basically push that transparency quite high up. Because ultimately, it should be a market demand, the more demand there is for a particular individual, the more he can charge that is why the politicians and the celebrities charge a lot of money because there is a lot of demand and this is a finite resource because when you look at specific items, there is going to be a finite resource of individuals that can do that kind of training and that kind of workshop.
+Because higher profile experts can generate higher fees, they could basically push that transparency quite high up. Ultimately, market demand for specific individuals should dictate the fees. Politicians and celebrities charge a lot of money for appearances or speeches because of demand, and because there is a finite resource. When you look at security experts, there is a finite resource of individuals that can provide that kind of training and lead that kind of workshop.
 
-So that is fundamentally the model, it is a model based on agents and then talent and ultimately it is about treating well the talent. So the better the talent is treated, the more likely that relationship will occur.
+Fundamentally this model is based on agents, and then talent, and ultimately it is about treating the talent well. The better the talent is treated, the longer the relationship will last. 
 
-And from a trainer's point of view or the person delivering the workshop point of view, I think it is also fundamental is that it doesn't need to require a lot of work on their part, basically they should just go in there presenting and talking about the stuff they do in their day job.
+From an expert's point of view, I think it is also fundamental that the model doesn't require a lot of background work on their part. The agent does the background work, and the expert should be able to go in to a company, present and talk about their work. 
 
-So, it should be actually pretty easy because all they are doing is sharing knowledge of stuff they are actually already doing in their day job.
-
-And one more thing, this also allows individuals to for example stay in companies that might not pay as well but have very interesting jobs and very interesting projects or very interesting freedom or like politics into what happens but then allow them to do one day a month or one day a week or a couple days a month extra working sessions to top up and to really make sure that then the income is balanced out and kind of balance out both worlds.
+This model will also allow security experts to stay in companies that might not pay very well, but that provide interesting projects, or other advantages to them. If these experts could have one day a month, or one day a week, working in training sessions they could top up their salaries and find a better balance between work and remuneration. 
