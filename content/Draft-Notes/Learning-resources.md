@@ -1,3 +1,5 @@
+Moved from Book_SecDevOps_Risk_Workflow/tree/master/content/2.Risk-workflow/Security-champions
+
 ### Learning-resources
 
 
