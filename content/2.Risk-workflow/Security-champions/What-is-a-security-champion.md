@@ -30,4 +30,4 @@ You need a mandate from the business that will give you at least half a day, if 
 
 You need to be a programmer, and understand code, because your job is to start looking at your application and understand its security properties. You should also know 'the tools of the trade', and how to implement them, in the most efficient way. Lastly, you must be able to identify useful metrics and instruct on how to obtain them.
 
-I can make a good developer, who is interested and dedicated, into a good AppSec specialist in 6 months. If the developer is an expert in AppSec, then he should join the central AppSec team.
+
