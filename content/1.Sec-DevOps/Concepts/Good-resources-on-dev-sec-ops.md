@@ -1,5 +1,7 @@
 ### Good resources on DevSecOps and SecDevOps
 
+Here are some useful information resources on DevSecOps and SecDevOps.
+
 DevSecOps & SecDevOps - Is there a difference? https://www.linkedin.com/pulse/devsecops-secdevops-difference-kumar-mba-msc-cissp-mbcs-citp
 
 **SecDevOps**
