@@ -1,13 +1,13 @@
-How to deal with teams that say they are already secure and don't have time for security.
+### How to deal with teams who say they are already secure and don't have time for security.
 
-So, every now and then you will find a team that has a lot of power to live with the level of applications.
+Every now and then, you will find a team that has a lot of power.
 
-And it is able to push back even at the very senior levels of the company to say we don't need these security stuff, we don't need these threat models, we don't need all these security tasks, all these activities that you guys are asking us to do.
+The team can push back, even at very senior levels of the company, and say "We don't need these threat models, we don't need all these security tasks, or all these security activities you guys ask us to do".
 
-Assuming that the security isn't really in attack space reading dragged by a team that is actually trying to do the right thing and is trying to push good practices and is actually trying to add value then the way to deal with these guys is to basically call their bluff.
+Assuming that the security isn't in an attack space, and there is another team trying to do the right thing, push good practices and add value, then the way to deal with these guys is to call their bluff.
 
-The way to deal with that is to basically play them at their own game and to basically say well if you don't do that it means that you are better reproducing really high secure code, you better have no security vulnerabilities, you better have no security exploits, you better fully understand your attack surface, you better have no side effects, very clean deployments all that jazz because those are all side effects of bad security practices.
+Play them at their own game, and say "Well, if you don't need the threat models or the security tasks, then you better be producing highly secure code, you better have no security vulnerabilities or security exploits, you better fully understand your attack surface, you better have no side effects, and you better have very clean deployments". These are all side effects of bad security practices.
 
-So, basically  what we then need to do is to document them, make them accept all those parts of risks, and then wait for Murphy's Law to come along and to do that.
+Next, we document their security status, make them accept the various risks, and then wait for Murphy's Law to come along and do the rest.
 
-The other thing that is very important is that you also need to challenge the assumptions. So for example if they have pen tests, make sure they understand pen tests aren't worth unless they are full white box. 
+It is very important to challenge assumptions. For example, if they have pen tests, make sure they understand pen tests aren't worth much unless they are full white-box tests. 
