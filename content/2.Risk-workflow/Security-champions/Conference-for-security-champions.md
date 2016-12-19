@@ -9,4 +9,4 @@ If there are already several external AppSec consulting companies under contract
 
 Never underestimate the power of team collaboration, or of team members getting to know each other. Social events are important, and the model of the OWASP Summit is also a good example of a conference for security champions, as is the Microsoft Blue Hat security conference. 
 
-(find other examples)
+
