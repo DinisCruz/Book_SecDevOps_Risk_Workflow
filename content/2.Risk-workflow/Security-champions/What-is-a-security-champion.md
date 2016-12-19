@@ -1,28 +1,28 @@
 ### What is a Security Champion and what do they do?
 
-Security Champions are a key element of an AppSec team, since they create an cross-functional team focused on Application Security
+Security Champions are a key element of an AppSec team, since they create a cross-functional team focused on Application Security.
 
 **What is a Security Champion?**
 
-  *  Security Champions are active members of a team that may help to make decisions about when to engage the Security Team
-  *  Act as the "voice" of security for the given product or team
-  *  Aim to bridge the gap between security and dev teams
-  *  Assist in the triage of security bugs for their team or area
+  *  Security Champions are active members of a team who decide when to engage the Security Team
+  *  Acts as the _"voice"_ of security for the given product or team
+  *  Bridges the gap between security and dev teams
+  *  Assists in the triage of security bugs for their team or area
 
-**What do they do?**
+**What does a Security Champion do?**
 
-  *  Actively participate in the AppSec JIRA and WIKI
-  *  Collaborate with other security champions
-     *  Review impact of 'breaking changes' made in other projects
-  *  Attend weekly meetings
-  *  Are the single point of contact for their assigned team
-  *  Ensure that security is not a blocker on active development or reviews
-  *  Assist in making security decisions for their team
+  *  Actively participates in the AppSec JIRA and WIKI
+  *  Collaborates with other security champions
+     *  Reviews impact of 'breaking changes' made in other projects
+  *  Attends weekly meetings
+  *  Is the contact point for their assigned team
+  *  Ensures that security is not a blocker on active development or reviews
+  *  Assists in making security decisions for their team
      *  Low-Moderate security impact
         *  Empowered to make decisions
-        *  Document decisions made in bugs or wiki
+        *  Documents decisions made in bugs or wiki
      *  High-Critical security impact
-        *  Work with AppSec team on mitigations strategies
-  *  Help with QA and Testing
-    *  Write Tests (from Unit Tests to Integration tests)
-    *  Help with development of CI (Continuous Integration) environments
+        *  Works with AppSec team on mitigations strategies
+  *  Helps with QA and Testing
+    *  Writes Tests (from Unit Tests to Integration tests)
+    *  Helps with development of CI (Continuous Integration) environments
