@@ -1,29 +1,27 @@
-The media has to reinvent itself to become sources of truth. And one way to do that is to hyper-link proof.
+### The media must reinvent itself
 
-Given the current infotainment and post lies world, we really need to get to the point where the media which is supposed to be the sixth state gains back its confidence.
+The media must reinvent itself to become a reliable source of truth. And one way to do that is to hyper-link proof.
 
-And I think that it needs to do in two ways, first of all it needs to totally start being objective, it needs to abandon the popular, the kind of sensationalist people and kind of description of problems and of course there is always going to be one that will do but for the most serious ones they need to do that. And they need to start to provide evidence to what they claim or be able to rewrite or go back and update what actually happened.
+As infotainment, and the post-truth political culture grows in influence, the media, which is supposed to be the fourth estate, must win back its confidence.
 
-And that means that that text becomes much more hyper-linked and much more accurate to what is going on.
+And I think that it needs to do this in two ways. Firstly, it needs to start being objective, and it needs to abandon any populist or sensationalist reporting of news. Of course, there will always be a few organizations that will resist this kind of change, but the more serious news organizations need to embrace objectivity. They also need to provide evidence for their claims, or they should rewrite or update the facts as necessary.
 
-And that is very important because ultimately if anything the articles needs to start showing whether they are biased, whether that is an attempt at being objective with the truth or that is a biased view of somebody.
+This means that texts must become more hyper-linked, and must reflect more accurately what is going on.
 
-And in a way that is okay if it is a biased view the bias should be clear, the bias should be objective and allow the viewer and the reader to actually understand where that bias is.
+This is very important because ultimately, news articles should demonstrate their bias, in relation to both news stories and their characterizations of people in the news. 
 
-And that means that also when a reader is exposed to somebody saying things, they should be obvious, there should be like a truth-o-meter available directly on the articles. 
+If a report is biased, the bias should be clear so the viewer and the reader can understand the context of the report.
 
-And it also means that when the media makes mistakes or when the media makes up news, they should be held accountable because ultimately the news should be objective.
+This means that when a reader looks at a report, any bias or agenda should be immediately obvious. There should be something like a 'truth-o-meter' available directly on the articles. 
 
-And I think maybe you start to have standards where either the media is objective and it is important that it is objective against government, against government lies, against government exaggerations, against business exaggerations, so again it needs to be protected by that.
+And it means that when the media makes mistakes or when the media invents news, they will be accountable because ultimately, the news should be objective.
 
-But when the media does make up stuff, they need to be held accountable, it cannot have both ways.
+This should lead to an improvement in journalistic standards, where the media becomes more objective, especially with regard to lies and exaggerations emanating from government or business.  Media organizations would of course need to have certain protections in place, to ensure such standards. 
 
-So, I think it is important that we use technology again that we are able to reinvent how news gets presented because they absolutely need to gain back their credibility.
+Technology will allow us to reinvent how news is presented. This is another area which Portugal could lead, by creating a media model that is more mature and more accurate than what is currently available. 
 
-And this might also pass by new forms of ownership because media depends on specific ownership models then we have a situation where they aren't going to be independent.
+Any new model should also look to create new forms of ownership, because media currently depend on specific ownership models that affect their independence.
 
-So this is another area where Portugal to lead by creating a media model that is actually much more mature and much more accurate. 
+Investment in talent, expertise, maturity, and adequate remuneration will ensure the skills and standards needed to push the agenda and make governments, industries and individuals accountable for their ideas and actions. 
 
-It also means that you need to invest, you need to pay well, you need to actually have really good talent, you cannot have junior journalists right out of college or without lots of experience or even emotional maturity writing things because ultimately they aren't going to get it right. 
 
-You need maturity, you need talent, you need knowledge, people that actually are able to push the agenda and able to make both politicians and business and people accountable for their ideas and statements.
