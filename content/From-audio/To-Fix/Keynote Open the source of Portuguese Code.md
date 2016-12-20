@@ -1,0 +1,3 @@
+Now this is quite interesting because we can actually take this other way and I was thinking how do you see this? Well look you can create a fund, you can create a venture capital fund in Portugal that buys the Portuguese companies that create software and basically open source their code. It is totally possible, it exists, it isn't a problem at all you just do that and they can use that money to actually figure out how to do it.
+
+So they rotate etc. and this will have a massive bottom line impact on Portuguese economy because we have all this software in Portuguese which is now freely available without being locked in by the vendors.
