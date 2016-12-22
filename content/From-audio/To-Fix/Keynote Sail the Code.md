@@ -1,0 +1,1 @@
+So, let's sail the code and let's use code to create a generation of work ethics, let's create new realities, so the same way that we once navigated right the sea, we should now do the same thing for digital code. 
