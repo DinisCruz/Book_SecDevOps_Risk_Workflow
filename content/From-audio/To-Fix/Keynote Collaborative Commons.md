@@ -1,0 +1,1 @@
+So the government has a big responsibility in this and the vision about this, and there is this thing about collaborative commons which I don't have time to go into but you guys should definitely explore it.
