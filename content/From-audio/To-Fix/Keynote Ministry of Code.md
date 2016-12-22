@@ -1,0 +1,3 @@
+So, we should have a Ministry of code, we should have a ministry in Portugal that cares about software, everything is code so basically it is managed at a high level within government, we have Portuguese CTO on a CISO, we should have things like Code for Portugal which is based on Code for America which is a really cool idea.
+
+Grassroots, they should manage the Portuguese hacking service, they will commit to only buy commissions and use application service that have released the code under open source, they have the schemers and all restrictive licenses that is what we want and then they manage the bug bounty stuff.
