@@ -1,6 +1,6 @@
-### Understand Every Project's Risks
+### Understand every project's risks
 
-It is essential that every developer and manager know what risk game they are playing. To fully know the risks, you must learn the answers to the following questions:
+It is essential that every developer and manager knows what risk game they are playing. To fully know the risks, you must learn the answers to the following questions:
 
   * what is the worst-case scenario for the application?
   * what are you defending, and from whom?
