@@ -1,14 +1,11 @@
-### Ten minute hack vs one day work
+### Ten-minute hack vs one day of work
 
-* 10m hacks vs 1 day proper coding will create more RISK tickets and source comments
-* I get asked this a lot from developers
-* There has to be a quantitive difference, which needs to be measured
+A ten-minute hack will create more RISK tickets and source comments than one full day's proper coding. Developers regularly ask me about this. There should be a quantitative difference, and that should be measured.
 
 **That code sucks**
 
-* Ok can you prove it?
-  * Code analysers in IDE can help identify known bad patterns and provide awareness
-* Why is it bad?
+If someone says *"That code sucks"*, you should ask them to demonstrate why it is bad. Code analysts in IDE can help to identify known bad patterns and provide awareness of them. 
 
 **In new code legacy**
-- if it also hard to refactor and change, then yes
+
+If the code in question is hard to refactor and change, then yes, it is bad code.
