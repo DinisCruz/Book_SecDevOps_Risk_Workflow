@@ -1,5 +1,4 @@
-### Insurance Driven Security
+### Insurance-driven security
 
-* insurance companies are starting to operate in the AppSec work
-* they will need objective way to measure RISK
-* workflows like this one could provide that
+Insurance companies are starting to operate in the AppSec world. They will need to develop an objective way to measure RISK. The SecDevOps risk workflow like the one described in this book could provide the objectivity the insurance companies need.
+
