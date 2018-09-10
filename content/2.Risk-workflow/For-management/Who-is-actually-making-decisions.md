@@ -1,19 +1,19 @@
-### Who is actually making decisions?
+### Who makes the decisions?
 
-One of the interesting situations that occurs when we play the risk acceptance game at large organisations, is how we are able to find out exactly who is making business and technical decisions.
+An interesting situation that occurs when we play the risk acceptance game at large organizations is how we find out exactly who makes the business and technical decisions in the company.
 
-Initially, when a 'Risk Accepted' request is made, what tends to happen is that the risk is pushed up the management chain, where each player pushes to their boss to accept risk. After all, what is at stake is who will take responsibility for that risk, and in some cases, who might be fired for it.
+Initially, when a 'Risk Accepted' request is made, what tends to happen is that the risk is pushed up the management chain, where each player pushes their boss to accept the risk. After all, what is at stake is who will take responsibility for that risk, and in some cases, who might be fired for it.
 
-Eventually there is a moment when a senior director (or even the CTO) resists accepting the risk and pushes it down. What he is saying at that moment in time, is that the decision to accept that particular risk, has to be made by someone else, who has been delegated (officially or implicitly) that responsibility.
+Eventually there comes a moment when a senior director, or even the CTO, resists accepting the risk and pushes it down. This means that the decision to accept the risk must be made by someone else who has been delegated, either officially or implicitly, that responsibility.
 
-In some cases this can now go all the way down to the actual developer/team doing the coding. Paradoxically, usually the developer didn't realise until that moment, that he is one that is actually deciding how and when to fix it (or not).
+In some cases, this can now go all the way down to the developer or team doing the coding. Paradoxically, the developer usually doesn't realize until that moment that he or she is the one who decides how and when, or whether, to fix the risk.
 
-Developers often hold a huge amount of power, but they just don't know it.
+Developers often hold a huge amount of power, but they are unaware of it.
 
-Playing the risk acceptance game, and identifying who is deciding on risk, is a way of empowering the actual decision-maker. Once the person realises their role and power, they can make sure they have realistic time-scales to fix the issue accordingly, and when required, make the case for more time, more resources, or even a more defined role as a decision-maker.
+Playing the risk acceptance game, and identifying who decides on risk, is a way to empower the decision-maker. Once the person realizes their role and power, they can ensure they have realistic time-scales to fix the issue, and they can make the case for more time, more resources, or even a more defined role as a decision-maker as the need arises.
 
-This exercise is very important because, until you discover who clicks on the 'Accept Risk' button, there is little knowledge about who (if anybody at all) is making important decisions.
+This exercise is very important because, until you discover who clicks on the 'Accept Risk' button, there is little knowledge about who, if anyone, makes the important decisions in an organization.
 
-Risk issues can only be on one of two moving paths: _'Fixing path'_ and _'Risk Acceptance path'_. Since deciding not to act on a particular issue is a decision in itself, the Risk workflow makes sure that issues don't 'disappear' in informal conversions, emails or documents.
+Risk issues can only be on one of two moving paths: _'Fixing path'_ and _'Risk Acceptance path'_. Since deciding not to act on an issue is a decision in itself, the Risk workflow makes sure that issues don't 'disappear' in informal conversions, emails or documents.
 
-This is also a good example why _Pollution_ is a better analogy than _Technical Debt_. Features that are pushed with un-realistic deadlines or bad briefs will create a higher number of Risk tickets (i.e. pollution) which will have to be accepted by the business owners (who agreed on the development brief and time-scales)
+This is also a good example of why _Pollution_ is a better analogy than _Technical Debt_. Features that are pushed with un-realistic deadlines or bad briefs will create a higher number of Risk tickets (i.e. pollution) which must be accepted by the business owners who agreed on the development brief and time-scales.
