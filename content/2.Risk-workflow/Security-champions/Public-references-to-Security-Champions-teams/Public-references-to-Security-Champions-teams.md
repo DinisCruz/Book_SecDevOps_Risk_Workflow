@@ -21,7 +21,7 @@ and
 
 **Mozilla**
 
-Mozilla has a good pages at [Security](https://wiki.mozilla.org/Security) and  [Security/Champions](https://wiki.mozilla.org/Security/Champions).
+Mozilla has a good page at [Security](https://wiki.mozilla.org/Security) and  [Security/Champions](https://wiki.mozilla.org/Security/Champions).
 
 ![](images/mozilla-security-champions-page.png)
 
@@ -32,7 +32,7 @@ In the SC page they mention other types of Security Contributors:
 * Security Mentors
 * Security Group
 
-Unfortunately this program has ended in 2012 following an [internal reorganisation](https://wiki.mozilla.org/Security/Meetings/2012-01-25)
+Unfortunately this program ended in 2012 following an [internal reorganisation](https://wiki.mozilla.org/Security/Meetings/2012-01-25)
 
 **OwaspSAMM**
 
@@ -45,9 +45,6 @@ From [Secure_SDLC_Cheat_Sheet](https://www.owasp.org/index.php/Secure_SDLC_Cheat
 
 **BSIMM**
 
-In BSIMM security champions are named 'satellites' and described in section 2.3
+In BSIMM security champions are named 'satellites' and described in section 2.3.
 > The satellite begins as a collection of people scattered across the organization who show an above-average level of security interest or skill. Identifying this group is a step towards creating a social network that speeds the adoption of security into software development.
 
-**...others?**
-
-... add more
