@@ -25,15 +25,8 @@ The real challenge for companies that have NOT been attacked properly, or public
 
 This is why exploits are so important for companies that don't have good internal references (or case studies) on why secure applications matter.
 
-As one staff member or manager accepts risk on behalf of his boss, and this action is replicated throughout a company, all the way to the CTO, risks are accumulated. If risks are accepted throughout the management levels of a company, then responsibility should be borne in a similar way if things go wrong.  Developers should be able to ensure that it is their manager who will get fired. That manager should make sure that his boss will get fired, and so on, all the way to the CTO and the CISO.
-
+As one staff member or manager accepts risk on behalf of his boss, and this action is replicated throughout a company, all the way to the CTO, risks are accumulated. If risks are accepted throughout the management levels of a company, then responsibility should be borne in a similar way if things go wrong.  Developers should be able to ensure that it is their manager who will get fired. That manager should make sure that his boss will get fired, and so on, all the way to the CTO and the CISO. Too often, business owners, or managers who control the development pipeline, make decisions which rarely impact on them if those decisions cause problems further along the line.
  
-  
-  * business owners (or who controls the development pipeline) make large number of decisions with very little side effects
-  
-  * add explanation of why pollution is a much better analogy than 'Technical Debt' (in measuring the side effects of coding and management decisions).
-    * Risk is a nice way to measure this polution
-  * _"...you are already being played in this game, so you might as well expose the game and tilt the rules in your favour..."_
-  *
+ _"...you are already being played in this game, so you might as well expose the game and tilt the rules in your favour..."_
   
 There is a video by Host Unknown, that lays out the consequences of thoughtlessly accepting risk. It is a comic piece, but with a very serious message. ([Host Unknown presents: Accepted the Risk](https://www.youtube.com/watch?v=9IG3zqvUqJY))
